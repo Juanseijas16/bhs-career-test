@@ -1,0 +1,927 @@
+id,active,location,email,benefits,contacts,title_de,title_en,level_de,level_en,time_de,time_en,contract_de,contract_en,dept_de,dept_en,intro_de,intro_en,tasks_de,tasks_en,profile_de,profile_en,offer_de,offer_en
+beispiel-marketing-manager,FALSE,"Weiherhammer, DE, 92729",recruiting@bhs-world.com,4,standard,Marketing Manager (m/w/d),Marketing Manager (m/f/x),Berufserfahrene,Experienced Professionals,Vollzeit,Full-time,Unbefristet,Unlimited,Kommunikation,Communications,"Kurzer Einleitungstext zum Unternehmen.
+Ein zweiter Absatz, falls gewünscht.","Short intro paragraph about the company.
+A second paragraph if desired.","Erste Aufgabe
+Zweite Aufgabe
+Dritte Aufgabe","first responsibility
+second responsibility
+third responsibility","Erste Anforderung
+Zweite Anforderung","first requirement
+second requirement","30 Tage Urlaub
+Modernes Betriebsrestaurant
+Bitte nutzen Sie zur Bewerbung unsere Karriereseite. Papierdokumente können wir aus organisatorischen Gründen nicht mehr zurückgeben.","30 days vacation
+modern company restaurant
+Please use our career site to apply. For organizational reasons, we can no longer return paper documents."
+IT-179950,TRUE,"Pune, India",<MShirodkar@bhs-world.com>; <RPawar@bhs-world.com>,india,india,,Senior AI Expert SAP & Business AI,Berufserfahrene,Experienced Professionals,Vollzeit,Full-time,Unbefristet,Unlimited,Kommunikation,Communications,,"Experience - 5+ years
+You will become part of our global in-house IT team and help shape the digital future of BHS by designing, implementing, and scaling AI-powered business solutions. As an AI Expert, you will drive the adoption of Artificial Intelligence across our SAP landscape and collaborate with business departments to identify, develop, and deploy innovative AI use cases.",,"identify, evaluate, and implement AI use cases across business processes with a strong focus on SAP
+design, develop, and deploy AI-powered applications and intelligent business solutions
+integrate AI services into SAP S/4HANA, SAP BTP, and surrounding enterprise applications
+develop AI assistants, copilots, intelligent automation, and business process enhancements
+evaluate and implement SAP Business AI capabilities and AI services available on SAP BTP and Microsoft Azure
+design and implement AI integrations using SAP AI Core, AI Foundation, Generative AI Hub, SAP Joule, and external LLMs where appropriate
+develop APIs and integration scenarios connecting AI services with SAP and non-SAP systems
+collaborate closely with business departments to translate business requirements into AI-driven solutions
+support AI governance, security, and best practices within the enterprise
+evaluate emerging AI technologies and provide recommendations for future innovation
+support and continuously improve productive AI applications",,"bachelor Computer Science, Artificial Intelligence, Software Engineering, or a related technical field
+5+ years of professional experience in SAP development or SAP solution architecture
+practical experience with Artificial Intelligence or Generative AI solutions
+strong knowledge of SAP S/4HANA and SAP Business Technology Platform (BTP)
+experience with SAP AI Core, SAP AI Foundation, SAP Business AI, SAP Joule, or comparable SAP AI technologies
+programming experience in one or more of the following technologies:
+Python / ABAP OO / JavaScript / TypeScript / Node.js
+
+experience with REST APIs, OData, and cloud-based integration concepts
+experience with SAP Integration Suite is an advantage
+knowledge of prompt engineering, Retrieval-Augmented Generation (RAG), vector databases, MCP, AI agents, or orchestration frameworks is a strong plus
+experience with Azure AI Services or similar AI platforms is desirable
+experience with Git, CI/CD, Jira, and Confluence is beneficial
+strong analytical and problem-solving skills
+ability to communicate complex technical concepts to business stakeholders
+passion for innovation, continuous learning, and emerging AI technologies
+excellent written and spoken English",,
+IT-179947,TRUE,"Pune, India",<MShirodkar@bhs-world.com>; <RPawar@bhs-world.com>,india,india,,Human Resources Business Partner,Berufserfahrene,Experienced Professionals,,Full-time,,Unlimited,,HR,,"Experience - 5+ years
+BHS Corrugated India Pvt. Ltd., based in Pune, was established in 2011 as a subsidiary of BHS Corrugated, Germany. Since its inception, the company has grown multifold and has steadily expanded its presence across multiple business verticals, including Sales, Service, Corrugating Rolls (CR), factory manufacturing, and the Global Capability Centre (GCC). As part of the world-leading BHS Corrugated group, BHS India combines a professional corporate culture with decades of global expertise to support the evolving needs of the corrugated cardboard industry. The organization is actively shaping the digital future of the corrugated cardboard sector by connecting manufacturers, customers, and service providers through an integrated industrial ecosystem. Through highly efficient and simplified processes, advanced technology, and strong customer orientation, BHS Corrugated India contributes to making the corrugated cardboard industry one of the most innovative and productive industry segments worldwide.",,"manage the end-to-end recruitment lifecycle for IT, Engineering, Corporate, and Manufacturing positions, including sourcing, screening, interview coordination, offer management, and onboarding using job portals and SAP Recruiting module and ATS tools.
+partner with global stakeholders and hiring managers across BHS subsidiaries to provide end-to-end recruitment support and ensure timely hiring.
+coordinate seamless onboarding and induction activities while maintaining employee records, documentation, and compliance through GreytHR, HRMS, and other HR systems.
+support employee lifecycle activities, including confirmations, transfers, promotions, employee documentation, and exit formalities.
+assist in implementing and communicating HR policies, procedures, and best practices while ensuring compliance with company standards.
+support office administration activities, including coordination with internal teams and external vendors for employee transportation (cab services), office facilities, and general administrative operations.
+plan and execute employee engagement initiatives, wellness programs, rewards & recognition activities, CSR initiatives, and company events to enhance employee experience.
+prepare HR reports, recruitment metrics, and dashboards to support data-driven decision-making and continuous process improvement.
+work closely with business leaders and cross-functional teams to support organizational goals and HR initiatives.",,"strong experience in end-to-end recruitment, onboarding, employee lifecycle management, HR operations, and employee engagement.
+strong communication, interpersonal, and stakeholder management skills with the ability to collaborate effectively across teams.
+ability to work independently, prioritize multiple responsibilities, and manage deadlines in a fast-paced environment.
+experience working with global stakeholders or multinational organizations, preferably with German headquarters, will be an added advantage.
+good to have: basic knowledge of SAP SuccessFactors EC, Recruiting, & PMGM (Performance & Goals Management).
+good to have: experience with GreytHR, HRMS, and ERP for digital employee record management systems.
+good to have: knowledge of HR analytics, recruitment portals, and reporting.
+good to have: proficiency in Microsoft Excel, PowerPoint, and Microsoft Office applications.",,"an opportunity to work with a growing global organization in a dynamic and collaborative environment.
+a modern workplace with an employee-centric culture focused on innovation and continuous learning.
+career growth opportunities, professional development, and ownership from day one.
+flexibility, openness, teamwork, and the opportunity to make a real business impact."
+IT-179946,TRUE,"Pune, India",<MShirodkar@bhs-world.com>; <RPawar@bhs-world.com>,india,india,,SAP C4C Sales & Service Cloud Expert,Berufserfahrene,Experienced Professionals,,Full-time,,Unlimited,,IT,,"Experience - 5+ years
+You will become part of our global in-house SAP IT team and support the continuous development of our customer-facing business processes. As an SAP C4C Expert, you will be responsible for implementing, optimizing, and supporting SAP Sales Cloud and SAP Service Cloud solutions. You will work closely with business departments worldwide to deliver innovative CRM and service management solutions while ensuring seamless integration with SAP S/4HANA and other enterprise applications.",,"analyze business requirements and design solutions in SAP Sales Cloud and SAP Service Cloud
+configure and customize SAP C4C applications according to business needs
+implement and optimize end-to-end sales and service processes
+support global users and key users in Sales, Customer Service, and After Sales
+design and implement enhancements, workflows, business rules, and validations
+configure master data, organizational structures, business roles, and authorizations
+develop and optimize forms, reports, dashboards, and analytics
+design and implement integrations between SAP C4C, SAP S/4HANA, SAP FSM, and third-party applications
+analyze and resolve application issues and perform root cause analysis
+support system testing, user acceptance testing, and productive deployments
+create technical and functional documentation
+collaborate with business stakeholders to identify process improvements and digitalization opportunities
+support global rollout projects and continuous optimization initiatives
+ensure system stability, performance, and high user satisfaction",,"bachelors degree in computer science, Information Technology, Business Informatics, or a related technical field
+5+ years of experience with SAP Sales Cloud / SAP C4C
+strong hands-on experience with SAP Sales Cloud and SAP Service Cloud
+experience in configuring and customizing SAP C4C solutions, SAP SD & CS
+good understanding of CRM, Sales, Service, and After Sales business processes
+experience integrating SAP C4C with SAP S/4HANA and other SAP solutions
+strong knowledge of Business Roles and Work Centers, Organizational Management, Master Data, Workflow configuration, and Business Rules
+experience with OData services, Web Services, REST APIs, and middleware integrations
+experience with SAP Integration Suite is highly desirable
+knowledge of SAP Business Technology Platform (BTP) is an advantage
+experience with SAP Cloud Applications Studio (ABSL, BODL) for custom developments is highly desirable
+experience with custom BOs (Business Objects), UI adaptations, mashups, and extension scenarios
+strong troubleshooting and application support skills
+experience with Jira and Confluence is beneficial
+strong analytical and problem-solving skills
+ability to work independently in an international environment
+excellent written and spoken English",,
+IT-179945,TRUE,"Pune, India",<MShirodkar@bhs-world.com>; <RPawar@bhs-world.com>,india,india,,SAP Integration Suite Expert,Berufserfahrene,Experienced Professionals,,Full-time,,Unlimited,,IT,,"Experience - 5+ years
+You will become part of our global in-house SAP IT team and play a key role in designing, developing, and operating our enterprise integration landscape. You will be responsible for connecting SAP and non-SAP applications, ensuring reliable and secure data exchange across our global business systems. In addition to developing new integrations, you will support the operation, monitoring, and continuous improvement of our existing integration platform.",,"design, develop, and maintain integration scenarios using SAP Integration Suite
+develop and enhance integration flows (iFlows) for SAP and non-SAP applications
+analyze business requirements and translate them into scalable integration solutions
+design synchronous and asynchronous integration scenarios
+develop APIs and event-driven integration architectures
+configure and manage SAP API Management and Integration Suite services
+monitor, analyze, and troubleshoot productive integration flows
+perform root cause analysis and resolve interface incidents
+ensure high availability, performance, and reliability of the integration landscape
+support transports, deployment, version management, and lifecycle management of integration artifacts
+collaborate closely with SAP functional consultants, developers, and business departments
+participate in integration architecture discussions and define best practices
+support integration projects in SAP S/4HANA, SAP BTP, cloud applications, and third-party systems
+create and maintain technical documentation and interface specifications
+continuously optimize existing interfaces and identify automation opportunities",,"bachelor’s degree in Computer Science, Information Technology, or a related technical field
+5+ years of experience with SAP Process Integration (SAP PI/PO or SAP CPI)
+3+ years of hands-on experience with SAP Integration Suite
+strong experience with SAP Business Technology Platform (SAP BTP)
+excellent knowledge of SAP Integration Suite services, including Cloud Integration, API Management, Open Connectors (preferred), Event Mesh (preferred), and Integration Advisor (preferred)
+experience designing and implementing enterprise integration architectures
+strong knowledge of REST, SOAP, OData, IDoc, RFC, XML, JSON, XSLT, and SFTP
+experience with API design and secure communication concepts (OAuth, JWT, certificates, TLS)
+experience integrating SAP S/4HANA with cloud and third-party applications
+strong troubleshooting and monitoring skills for productive interfaces
+experience with message monitoring, error handling, and performance optimization
+knowledge of transport management and deployment concepts within SAP BTP
+basic programming knowledge in Groovy, JavaScript, or Java is an advantage
+experience with Git, Jira, and Confluence is beneficial
+basic knowledge of SAP Basis administration (system connectivity, certificates, destinations, transport management, communication users) is desirable
+basic understanding of SAP authorization concepts and security is an advantage
+strong analytical and problem-solving skills
+ability to work independently in an international environment
+excellent written and spoken English",,
+IT-180142,TRUE,"Weiherhammer, DE, 92729",recruiting@bhs-world.com,4,standard,Werkstudent (m/w/d) Corporate Communications,Working Student (m/f/x) Corporate Communications,Berufserfahrene,Experienced Professionals,,,,,,,"BHS Corrugated Maschinen- und Anlagenbau GmbH ist der führende Lösungsanbieter in der Wellpappenindustrie. Mit mehr als 3.100 MitarbeiterInnen am Hauptsitz in Weiherhammer, Deutschland, sowie in mehr als 20 Ländern weltweit ist der Lifecycle Partner durchwegs stark in seinem gesamten Produkt- und Leistungsspektrum. Dieses umfasst die Bereiche Wellpappenmaschinen, -anlagen und -fabriken, Industrie 4.0, Logistik sowie Single-Pass-Inkjet Digitaldruck. Kunden erhalten ganzheitliche Lösungen – von Entwicklung und Produktion über Installation und Wartung bis zu einer Vielzahl an innovativen Servicelösungen.
+Unter dem Leitbild „Corrugated 4.0"" treibt das Unternehmen die Digitalisierung der Wellpappenindustrie gezielt voran – mit Fokus auf Automatisierung, Effizienz und datengetriebene Prozessoptimierung.
+Als einer der größten Arbeitgeber in der Region bietet das Unternehmen vielfältige Karrieremöglichkeiten und ein umfassendes Angebot an Arbeitgeberleistungen.","BHS Corrugated Maschinen- und Anlagenbau GmbH is the leading solutions provider in the corrugated board industry. With more than 3,100 employees at its headquarters in Weiherhammer, Germany, as well as in more than 20 countries worldwide, the Lifecycle Partner is consistently strong across its entire range of products and services. This encompasses corrugated machinery, plants, and factories, Industry 4.0, logistics, and single-pass inkjet digital printing. Customers receive comprehensive solutions—from development and production through installation and maintenance to a wide range of innovative service solutions.
+Under the ""Corrugated 4.0"" vision, the company is driving the digitalization of the corrugated industry in a targeted manner—with a focus on automation, efficiency, and data-driven process optimization.
+As one of the largest employers in the region, the company offers diverse career opportunities and a comprehensive range of employee benefits.","Unterstützung des Corporate-Communications-Teams im Tagesgeschäft
+Aktive Mitwirkung an der internen und externen Unternehmenskommunikation
+Erstellung, Bearbeitung und Pflege von Inhalten für Intranet, Website, Newsletter und Social Media
+Mithilfe bei der Planung und Umsetzung von Kommunikationskampagnen
+Unterstützung bei der Organisation von Veranstaltungen
+Recherche zu relevanten Themen, Trends und KI
+Erstellung von Präsentationen und Berichten","supporting the Corporate Communications team in day-to-day operations
+actively contributing to internal and external corporate communications
+creating, editing, and maintaining content for the intranet, website, newsletters, and social media
+assisting with the planning and implementation of communication campaigns
+helping to organize events
+conducting research on relevant topics, trends, and AI
+creating presentations and reports","Eingeschriebener Student (m/w/d) im Bereich Kommunikations-/Medienwissenschaft, Journalismus, Marketing, BWL oder eines vergleichbaren Studiengangs
+Sehr gute Deutschkenntnisse in Wort und Schrift sowie gute Englischkenntnisse 
+Sicherer Umgang mit MS Office, KI-Tools (von Vorteil)
+Erste Erfahrungen in Kommunikation, PR, Redaktion oder Marketing wünschenswert
+Strukturierte, sorgfältige und eigenständige Arbeitsweise
+Kreativität, Textsicherheit und ein gutes Gespür für Sprache und Zielgruppen
+Teamfähigkeit und Kommunikationsstärke","currently enrolled student (m/f/d) in Communication/Media Studies, Journalism, Marketing, Business Administration, or a comparable field of study
+excellent written and spoken German skills, as well as good English skills
+proficiency with MS Office and AI tools (preferred)
+previous experience in communications, PR, editorial work, or marketing is desirable
+a structured, meticulous, and independent work style
+creativity, strong writing skills, and a good feel for language and target audiences
+ability to work well in a team and strong communication skills","Möglichkeit von Homeoffice / mobilem, ortsunabhängigem Arbeiten
+Ein gutes und kollegiales Betriebsklima
+Umfassende, langfristig orientierte Einarbeitung mit Patensystem
+Attraktive Gesundheitsangebote inkl. eigenem Fitnessstudio und Massageangebote
+Modernes Betriebsrestaurant
+Aufnahme Stipendiaten-Programm bei ausgezeichneten Leistungen
+Kurze Hierarchie- und Organisationswege
+Bitte nutzen Sie zur Bewerbung unsere Karriereseite. Papierdokumente können wir aus organisatorischen Gründen nicht mehr zurückgeben.","option to work from home or remotely, regardless of location
+a good and collegial working atmosphere
+comprehensive, long-term onboarding with a mentoring program
+attractive health offers including our own fitness studio and massage offers
+modern company restaurant
+admission to the scholarship program for students with outstanding academic performance
+short hierarchical and organizational paths
+Please use our career site to apply. For organizational reasons, we can no longer return paper documents."
+IT-180136,TRUE,"Weiherhammer, DE, 92729",ausbildung@bhs-world.com,6,trainees,Berufsausbildung: Mechatroniker (m/w/d),,Auszubildende,,Vollzeit,,Befristet,,Ausbildung,,"BHS Corrugated Maschinen- und Anlagenbau GmbH ist der führende Lösungsanbieter in der Wellpappenindustrie. Mit mehr als 3.100 MitarbeiterInnen am Hauptsitz in Weiherhammer, Deutschland, sowie in mehr als 20 Ländern weltweit ist der Lifecycle Partner durchwegs stark in seinem gesamten Produkt- und Leistungsspektrum. Dieses umfasst die Bereiche Wellpappenmaschinen, -anlagen und -fabriken, Industrie 4.0, Logistik sowie Single-Pass-Inkjet Digitaldruck. Kunden erhalten ganzheitliche Lösungen – von Entwicklung und Produktion über Installation und Wartung bis zu einer Vielzahl an innovativen Servicelösungen.
+Unter dem Leitbild „Corrugated 4.0"" treibt das Unternehmen die Digitalisierung der Wellpappenindustrie gezielt voran – mit Fokus auf Automatisierung, Effizienz und datengetriebene Prozessoptimierung.
+Als einer der größten Arbeitgeber in der Region bietet das Unternehmen vielfältige Karrieremöglichkeiten und ein umfassendes Angebot an Arbeitgeberleistungen.
+Mechatroniker (m/w/d) bauen aus mechanischen, elektrischen und elektronischen Baugruppen und Komponenten komplexe mechatronische Systeme, z. B. Roboter für die industrielle Produktion. Sie prüfen die einzelnen Bauteile und montieren sie zu Systemen und Anlagen. Die fertigen Anlagen nehmen sie in Betrieb, programmieren sie oder installieren zugehörige Software. Dabei richten sie sich nach Schaltplänen und Konstruktionszeichnungen und prüfen die Anlagen sorgfältig, bevor sie diese an ihre Kunden übergeben. Außerdem halten sie mechatronische Systeme instand und reparieren sie.",,"Arbeits- und Tarifrecht, Arbeitsschutz
+Arbeitssicherheit, Umweltschutz und rationelle Energieverwendung
+Anreißen, Kennzeichnen und Prüfen von Werkstücken
+Sägen, Umformen und Schweißen von Blechen, Platten, Rohren und Profilen
+Zusammenbauen von Einschüben, Gehäusen und Schaltgerätekombinationen
+Verlegen von Leitungen und Verdrahten von Baugruppen und Geräten nach Unterlagen und Mustern
+Auswahl von Verfahren und Messgeräten, Aufbau von Messeinrichtungen, Prüfen von analogen und digitalen Signalen sowie von elektrischen Kenndaten
+Installation und Konfiguration von Netzwerken und Bussystemen
+Aufbau von elektrischen und fluidischen Schaltungen und Anschließen von Einrichtungen zur Energieversorgung
+Eingeben bzw. Änderung von Steuerungsprogrammen für mechatronische Systeme und Erstellen von Anwendungsprogrammen für Steuerungen
+Anbringen von Schutzeinrichtungen, Schirmungen, Verkleidungen und Isolierungen und Prüfen der Wirksamkeit von Schutzmaßnahmen
+Einsetzen von Diagnosesystemen, Prüfen von Steuer-, Regel- und Überwachungseinrichtungen und Einstellung von Regelparameter
+Beseitigung von Störungen an mechatronischen Systemen und Behebung von Softwarefehler
+Inbetriebnahme mechatronischer Systeme und Durchführung von Funktionsprüfungen",,"Mindestens qualifizierender Hauptschulabschluss
+Ausbildungsdauer: 3,5 Jahre",,"Eine fachliche und persönliche Berufsausbildung auf höchstem Niveau
+Eine den Anforderungen und Aufgaben entsprechend angepasste Ausbildungsvergütung
+30 Tage Urlaub, Urlaubs- und Weihnachtsgeld
+Sonderurlaub (Nachmittag) an Kirwamontag und Faschingsdienstag
+Unterstützung für die individuelle Altersvorsorge
+Kompetente und praxiserfahrene Ausbilder
+Kennenlern- und Bildungstage zu Ausbildungsbeginn
+Individuell angepasste Ausbildungsmöglichkeiten eines Hidden Champions
+Umfangreiche Fort- und Weiterbildungsangebote
+Möglichkeit von Montage- und Auslandseinsätzen
+Unbeschränkte Karriere- und Aufstiegsmöglichkeiten innerhalb des BHS-Konzerns
+Unmittelbare Umsetzung von Theorie in Praxis
+Besuch von Englischkursen
+Organisation und Teilnahme am jährlichen BHS-Betriebsfest
+Finanzieller Zuschuss und Freistellung (Prüfung) für PKW-Führerschein
+Erstattung der Fahrtkosten für die Berufsschule
+Kostenlose Arbeitskleidung für gewerbliche Auszubildende",
+IT-180133,TRUE,"Weiherhammer, DE, 92729",ausbildung@bhs-world.com,6,trainees,Berufsausbildung: Elektroniker für Automatisierungstechnik (m/w/d),,Auszubildende,,Vollzeit,,Befristet,,Ausbildung,,"BHS Corrugated Maschinen- und Anlagenbau GmbH ist der führende Lösungsanbieter in der Wellpappenindustrie. Mit mehr als 3.100 MitarbeiterInnen am Hauptsitz in Weiherhammer, Deutschland, sowie in mehr als 20 Ländern weltweit ist der Lifecycle Partner durchwegs stark in seinem gesamten Produkt- und Leistungsspektrum. Dieses umfasst die Bereiche Wellpappenmaschinen, -anlagen und -fabriken, Industrie 4.0, Logistik sowie Single-Pass-Inkjet Digitaldruck. Kunden erhalten ganzheitliche Lösungen – von Entwicklung und Produktion über Installation und Wartung bis zu einer Vielzahl an innovativen Servicelösungen.
+Unter dem Leitbild „Corrugated 4.0"" treibt das Unternehmen die Digitalisierung der Wellpappenindustrie gezielt voran – mit Fokus auf Automatisierung, Effizienz und datengetriebene Prozessoptimierung.
+Als einer der größten Arbeitgeber in der Region bietet das Unternehmen vielfältige Karrieremöglichkeiten und ein umfassendes Angebot an Arbeitgeberleistungen.
+Elektroniker (m/w/d) für Automatisierungstechnik analysieren Funktionszusammenhänge sowie Prozessabläufe von automatisierten Systemen und entwerfen Änderungen bzw. Erweiterungen. Sie installieren und justieren elektrische, hydraulische oder pneumatische Antriebssysteme und bauen mess-, steuerungs- und regelungstechnische Einrichtungen ein. Dabei montieren, konfigurieren, programmieren und justieren sie Sensorsysteme, Betriebssysteme, Bus-Systeme und Netzwerke. Die installierten Komponenten verbinden sie zu komplexen Automatisierungseinrichtungen, die sie in ein Gesamtsystem integrieren. Nach Testläufen übergeben sie die Systeme und weisen die künftigen Anwender in die Bedienung ein. Zudem überwachen bzw. warten Elektroniker (m/w/d) für Automatisierungstechnik Automatisierungssysteme und halten sie instand. Mithilfe von Testsoftware und Diagnosesystemen lokalisieren, analysieren und beheben sie Störungen.",,"Aufbau und Organisation des Ausbildungsbetriebes
+Arbeits- und Tarifrecht, Arbeitsschutz
+Arbeitssicherheit, Umweltschutz und rationelle Energieverwendung
+Anfertigen von mechanischen Teilen
+Herstellen von mechanischen Verbindungen
+Zusammenbauen und Verdrahten von mechanischen, elektromechanischen und elektrischen Bauteilen zu Baugruppen
+Zurichten, Verlegen und Anschließen von Leitungen
+Messen von Gleich- und Wechselgrößen sowie Prüfen von Bauteilen und Baugruppen
+Analyse von Funktionszusammenhängen und Prozessabläufen, ggf. auch von Prozessabläufen in vernetzten Produktionsanlagen, um Änderungen und Erweiterungen von Automatisierungssystemen zu entwickeln (z. B. für Produktions- und Fertigungsprozesse, Verfahrens- und Prozesstechnik, nanotechnologische Anwendungen, Netzwerke, Verkehrsleittechnik und Gebäudetechnik)
+Errichtung von Einrichtungen der Automatisierungstechnik sowie Installation von Komponenten
+Prüfung und Inbetriebnahme von Automatisierungssystemen
+Überwachung, Wartung und Instandhaltung von Automatisierungssystemen
+Dokumentation von Arbeiten und Mitwirkung an der Optimierung von Abläufen",,"Mindestens qualifizierender Hauptschulabschluss
+Ausbildungsdauer: 3,5 Jahre",,"Eine fachliche und persönliche Berufsausbildung auf höchstem Niveau
+Eine den Anforderungen und Aufgaben entsprechend angepasste Ausbildungsvergütung
+30 Tage Urlaub, Urlaubs- und Weihnachtsgeld
+Sonderurlaub (Nachmittag) an Kirwamontag und Faschingsdienstag
+Unterstützung für die individuelle Altersvorsorge
+Kompetente und praxiserfahrene Ausbilder
+Kennenlern- und Bildungstage zu Ausbildungsbeginn
+Individuell angepasste Ausbildungsmöglichkeiten eines Hidden Champions
+Umfangreiche Fort- und Weiterbildungsangebote
+Möglichkeit von Montage- und Auslandseinsätzen
+Unbeschränkte Karriere- und Aufstiegsmöglichkeiten innerhalb des BHS-Konzerns
+Unmittelbare Umsetzung von Theorie in Praxis
+Besuch von Englischkursen
+Organisation und Teilnahme am jährlichen BHS-Betriebsfest
+Finanzieller Zuschuss und Freistellung (Prüfung) für PKW-Führerschein
+Erstattung der Fahrtkosten für die Berufsschule
+Kostenlose Arbeitskleidung für gewerbliche Auszubildende",
+IT-180737,TRUE,"Pune, India",<MShirodkar@bhs-world.com>; <RPawar@bhs-world.com>,india,india,,Talent Acquisition Intern,,Internship,,Full-time,,Temporary,,HR,,"The company BHS Corrugated India Pvt Ltd, based in Pune is established since 2011 as a subsidiary of BHS Corrugated, Germany. We bring together start-up culture and decades of corporate experience. We are working on the digital future of the corrugated cardboard industry. As an independent player, we act as partners to the entire industry and network manufacturers, customers and service providers in a unique industrial ecosystem. We use it to create highly efficient and simple processes with the aim of making the corrugated cardboard industry the most innovative and productive industry segment worldwide.
+If you also want to face the challenges of a professional set up, support us at the Pune location.
+We are looking for a proactive and enthusiastic Talent Acquisition Intern to support our recruitment team for a one-year internship. The intern will gain practical exposure to the complete recruitment lifecycle while working on hiring requirements across both Manufacturing and IT functions. This role is ideal for someone who is passionate about Human Resources and eager to build a career in Talent Acquisition.",,"support the end-to-end recruitment process for IT, Engineering, Manufacturing, and corporate roles.
+source candidates through job portals, LinkedIn, social media, employee referrals, and other recruitment channels.
+screen resumes and conduct initial telephonic interviews to assess candidate suitability.
+coordinate interview schedules with candidates, hiring managers, and interview panels.
+maintain and update candidate information in the Applicant Tracking System (ATS) and recruitment trackers.
+ensure a positive candidate experience by maintaining timely communication throughout the hiring process.
+prepare and share interview feedback, recruitment reports, and hiring dashboards.
+assist in campus hiring initiatives, internship drives, and recruitment events.
+coordinate background verification and pre-joining documentation.
+support onboarding activities and documentation for new hires.
+collaborate with HR and business teams to ensure smooth hiring operations.
+assist with employer branding initiatives and recruitment campaigns on social media.",,"excellent verbal and written communication skills.
+strong interpersonal and coordination abilities.
+good organizational and time management skills.
+attention to detail and ability to maintain confidentiality.
+willingness to learn and adapt in a fast-paced environment.
+basic knowledge of MS Excel, Word, and PowerPoint.
+familiarity with LinkedIn and job portals will be an added advantage.",,
+IT-180832,TRUE,"Weiherhammer, DE, 92729",recruiting@bhs-world.com,4,standard,Werkstudent (m/w/d) im Bereich Parts,Working Student (m/w/d) in Parts,Werkstudenten,Working Students,Teilzeit,Part-time,Befristet,Temporary,Sonstige,General,"BHS Corrugated Maschinen- und Anlagenbau GmbH ist der führende Lösungsanbieter in der Wellpappenindustrie. Mit mehr als 3.100 MitarbeiterInnen am Hauptsitz in Weiherhammer, Deutschland, sowie in mehr als 20 Ländern weltweit ist der Lifecycle Partner durchwegs stark in seinem gesamten Produkt- und Leistungsspektrum. Dieses umfasst die Bereiche Wellpappenmaschinen, -anlagen und -fabriken, Industrie 4.0, Logistik sowie Single-Pass-Inkjet Digitaldruck. Kunden erhalten ganzheitliche Lösungen – von Entwicklung und Produktion über Installation und Wartung bis zu einer Vielzahl an innovativen Servicelösungen.
+Unter dem Leitbild „Corrugated 4.0"" treibt das Unternehmen die Digitalisierung der Wellpappenindustrie gezielt voran – mit Fokus auf Automatisierung, Effizienz und datengetriebene Prozessoptimierung.
+Als einer der größten Arbeitgeber in der Region bietet das Unternehmen vielfältige Karrieremöglichkeiten und ein umfassendes Angebot an Arbeitgeberleistungen.","BHS Corrugated Maschinen- und Anlagenbau GmbH is the leading solutions provider in the corrugated board industry. With more than 3,100 employees at its headquarters in Weiherhammer, Germany, as well as in more than 20 countries worldwide, the Lifecycle Partner is consistently strong across its entire range of products and services. This encompasses corrugated machinery, plants, and factories, Industry 4.0, logistics, and single-pass inkjet digital printing. Customers receive comprehensive solutions—from development and production through installation and maintenance to a wide range of innovative service solutions.
+Under the ""Corrugated 4.0"" vision, the company is driving the digitalization of the corrugated industry in a targeted manner—with a focus on automation, efficiency, and data-driven process optimization.
+As one of the largest employers in the region, the company offers diverse career opportunities and a comprehensive range of employee benefits.","Unterstützung des internationalen Parts-Teams bei Controlling- und Reportingaufgaben
+Erstellung von regelmäßigen und Ad-hoc-Auswertungen für Vertrieb, Management und Fachbereiche
+Analyse von Umsatz-, Margen-, Auftrags- und Vertriebskennzahlen
+Erstellung und Pflege von Dashboards, KPI-Reports und Management-Übersichten
+Tracking relevanter Geschäftskennzahlen sowie Aufbereitung von Handlungsempfehlungen
+Sicherstellung und Verbesserung der Datenqualität in Reporting- und Analysesystemen
+Dokumentation von Kennzahlen, Datenquellen und Controlling-Prozessen
+Mitarbeit bei der Automatisierung und Standardisierung von Reporting- und Analyseprozessen
+Unterstützung bei bereichsübergreifenden Projekten im Umfeld Business Intelligence, Digitalisierung und Prozessoptimierung","supporting the international Parts team with controlling and reporting tasks
+preparing regular and ad hoc analyses for Sales, Management, and specialist departments
+analyzing revenue, margin, order, and sales performance indicators
+creating and maintaining dashboards, KPI reports, and management overviews
+tracking relevant business metrics and preparing recommendations for action
+ensuring and improving data quality in reporting and analysis systems
+documenting KPIs, data sources, and controlling processes
+contributing to the automation and standardization of reporting and analysis processes
+supporting cross-functional projects in business intelligence, digitalization, and process optimization","Laufendes Studium der Betriebswirtschaftslehre, Wirtschaftsingenieurwesen, Wirtschaftsinformatik, Data Analytics oder eines vergleichbaren Studiengangs
+Ausgeprägte analytische Fähigkeiten sowie eine hohe Zahlenaffinität
+Sehr gute Kenntnisse in Microsoft Excel
+Erste Erfahrungen mit Power BI, Qlik, SQL oder vergleichbaren Analyse- und Reportingtools sind von Vorteil
+Strukturierte, selbstständige und zuverlässige Arbeitsweise
+Sehr gute Deutsch- und Englischkenntnisse
+Freude daran, komplexe Zusammenhänge zu analysieren und verständlich aufzubereiten
+Interesse an internationalen Geschäftsprozessen und datenbasierten Entscheidungen","current studies in business administration, industrial engineering, business informatics, data analytics, or a comparable degree program
+strong analytical skills and a high affinity for numbers
+very good knowledge of Microsoft Excel
+initial experience with Power BI, Qlik, SQL, or comparable analysis and reporting tools is an advantage
+structured, independent, and reliable way of working
+very good German and English language skills
+enjoyment of analyzing complex relationships and presenting them clearly
+interest in international business processes and data-driven decision-making","Möglichkeit von Homeoffice / mobilem, ortsunabhängigem Arbeiten
+Ein gutes und kollegiales Betriebsklima
+Umfassende, langfristig orientierte Einarbeitung mit Patensystem
+Attraktive Gesundheitsangebote inkl. eigenem Fitnessstudio und Massageangebote
+Modernes Betriebsrestaurant
+Aufnahme Stipendiaten-Programm bei ausgezeichneten Leistungen
+Kurze Hierarchie- und Organisationswege","option to work from home or remotely, regardless of location
+a good and collegial working atmosphere
+comprehensive, long-term onboarding with a mentoring program
+attractive health offers including our own fitness studio and massage offers
+modern company restaurant
+admission to the scholarship program for students with outstanding academic performance
+short hierarchical and organizational paths"
+sap-sd-inhouse-developer-consultant,TRUE,"Weiherhammer, DE, 92729",recruiting@bhs-world.com,6,standard,SAP SD Inhouse Developer / Consultant (m/w/d),SAP SD Inhouse Developer / Consultant (m/f/x),Berufserfahrene,Experienced Professionals,Vollzeit,Full-time,Unbefristet,Unlimited,IT,IT,"BHS Corrugated Maschinen- und Anlagenbau GmbH ist der führende Lösungsanbieter in der Wellpappenindustrie. Mit mehr als 3.100 MitarbeiterInnen am Hauptsitz in Weiherhammer, Deutschland, sowie in mehr als 20 Ländern weltweit ist der Lifecycle Partner durchwegs stark in seinem gesamten Produkt- und Leistungsspektrum. Dieses umfasst die Bereiche Wellpappenmaschinen, -anlagen und -fabriken, Industrie 4.0, Logistik sowie Single-Pass-Inkjet Digitaldruck. Kunden erhalten ganzheitliche Lösungen – von Entwicklung und Produktion über Installation und Wartung bis zu einer Vielzahl an innovativen Servicelösungen.
+Unter dem Leitbild „Corrugated 4.0"" treibt das Unternehmen die Digitalisierung der Wellpappenindustrie gezielt voran – mit Fokus auf Automatisierung, Effizienz und datengetriebene Prozessoptimierung.
+Als einer der größten Arbeitgeber in der Region bietet das Unternehmen vielfältige Karrieremöglichkeiten und ein umfassendes Angebot an Arbeitgeberleistungen.
+Sie werden Teil unseres Inhouse SAP Teams und werden als SAP Developer (m/w/d) oder SAP Consultant (m/w/d) die digitale Zukunft der BHS von morgen insbesondere im Bereich Sales & Service mitgestalten. Unterstützen Sie uns um als ambitionierte/r Kolleg*in unser SAP S/4 HANA System weiterzuentwickeln. Sie haben bisher kaum Erfahrung unter SAP S/4 HANA – kein Problem, dann bietet sich Ihnen hier die Chance sich in diesem Bereich weiterzuentwickeln.","BHS Corrugated Maschinen- und Anlagenbau GmbH is the leading solutions provider in the corrugated board industry. With more than 3,100 employees at its headquarters in Weiherhammer, Germany, as well as in more than 20 countries worldwide, the Lifecycle Partner is consistently strong across its entire range of products and services. This encompasses corrugated machinery, plants, and factories, Industry 4.0, logistics, and single-pass inkjet digital printing. Customers receive comprehensive solutions—from development and production through installation and maintenance to a wide range of innovative service solutions.
+Under the “Corrugated 4.0” vision, the company is driving the digitalization of the corrugated industry in a targeted manner—with a focus on automation, efficiency, and data-driven process optimization.
+As one of the largest employers in the region, the company offers diverse career opportunities and a comprehensive range of employee benefits.
+You’ll become part of our in-house SAP team and, as an SAP Developer (m/f/x) or SAP Consultant (m/f/x), help shape the digital future of BHS—particularly in the Sales & Service division. Join us as an ambitious colleague and help us further develop our SAP S/4HANA system. If you have little to no experience with SAP S/4HANA so far—no problem—this is your chance to grow in this field.","Analyse, Konzeption, Implementierung, Weiterentwicklung & Digitalisierung von Geschäftsprozessen und Funktionen im SAP-Umfeld
+Selbstständige Implementierung/Customizing der Spezifikationen unter S/4 HANA
+Unterstützung der Projektteams bei Integrationstests
+Eigenständige Betreuung der eingeführten Anwendungen innerhalb der zu verantwortenden Applikationsbereiche
+Integrationsszenarien in Zusammenarbeit mit den Fachbereichen inkl. Konzeption, Analyse und Abbildung im System
+Gestaltung und Betreuung modulspezifischer Abläufe und Optimierung von zukunftsfähigen Prozessen insbesondere im Bereich Sales & Service
+Anwendersupport für die Fachabteilungen der BHS","analysis, design, implementation, further development and digitization of business processes and functions in the SAP environment
+independent implementation and customization of specifications in S/4 HANA
+supporting project teams with integration testing
+independent management of deployed applications within the application areas under your responsibility
+development of integration scenarios in collaboration with business units, including design, analysis, and implementation in the system
+design and management of module-specific workflows and optimization of future-proof processes, particularly in the Sales & Service area
+user support for BHS’s business departments","Abgeschlossenes Studium der Wirtschaftswissenschaften/Informatik oder vergleichbare Berufsausbildung
+Mehrjährige einschlägige Berufserfahrung in entsprechender Funktion
+Fundierte Kenntnisse bevorzugt in einem SAP Modul SD oder CS
+ABAP-Programmierkenntnisse von Vorteil
+Erfahrung im Schnittstellendesign sowie Prozessverständnis im IT-Servicemanagement von Vorteil
+Motivation sich in den neuesten SAP-Technologien (SAP FSM & SAP C4C) weiterzuentwickeln
+Affinität zu modernen IT-Themen sowie ein Verständnis für den Aufbau von IT-Systemen
+Analytische und prozessbezogene Vorgehensweise sowie modulübergreifende Denkweise
+Organisations- und Problemlösungstalent sowie Kommunikationsstärke
+Hohes Qualitätsbewusstsein, methodisches Vorgehen, zielorientiertes Planen und Umsetzen","bachelor’s degree in economics or computer science, or comparable professional training
+several years of relevant professional experience in a similar role
+in-depth knowledge, preferably of an SAP module (SD or CS)
+ABAP programming skills are a plus
+experience in interface design and an understanding of IT service management processes are a plus
+motivation to further develop your skills in the latest SAP technologies (SAP FSM & SAP C4C)
+interest in modern IT topics and an understanding of how IT systems are structured
+analytical and process-oriented approach, as well as a cross-module mindset
+organizational and problem-solving skills, as well as strong communication skills
+high attention to quality, a methodical approach, and goal-oriented planning and execution","Umfassende, langfristig orientierte Einarbeitung mit Patensystem
+Eine den Stellenanforderungen entsprechend attraktive Vergütung
+30 Tage Urlaub
+Urlaubs- und Weihnachtsgeld
+I. d. R. individuell angepasste Arbeitszeitmodelle
+Interne Karriere- und Aufstiegsmöglichkeiten
+Umfangreiche Fort- und Weiterbildungsmöglichkeiten
+Ein gutes und kollegiales Betriebsklima
+Innovatives Familienmanagement
+Attraktive Gesundheitsangebote inkl. eigenem Fitnessstudio und Massageangebote
+Modernes Betriebsrestaurant
+Kurze Hierarchie- und Organisationswege
+Bitte nutzen Sie zur Bewerbung unsere Karriereseite. Papierdokumente können wir aus organisatorischen Gründen nicht mehr zurückgeben.","comprehensive, long-term oriented training with a mentoring system
+an attractive salary in line with the job requirements
+30 days vacation
+vacation and Christmas bonus
+generally individually adapted working time models
+internal career and promotion opportunities
+extensive training and further education opportunities
+a good and collegial working atmosphere
+innovative family management
+attractive health offers including our own fitness studio and massage offers
+modern company restaurant
+short hierarchical and organizational paths
+Please use our career site to apply. For organizational reasons, we can no longer return paper documents."
+project-manager-corrugated-production,TRUE,"Weiherhammer, DE, 92729",recruiting@bhs-world.com,4,standard,Project Manager (m/w/d) für die Projektplanung der Wellpappenproduktion,Project Manager (m/f/x) for project planning of corrugated cardboard production,Berufserfahrene,Experienced Professionals,Vollzeit,Full-time,Unbefristet,Unlimited,Sonstige,General,"BHS Corrugated Maschinen- und Anlagenbau GmbH ist der führende Lösungsanbieter in der Wellpappenindustrie. Mit mehr als 3.100 MitarbeiterInnen am Hauptsitz in Weiherhammer, Deutschland, sowie in mehr als 20 Ländern weltweit ist der Lifecycle Partner durchwegs stark in seinem gesamten Produkt- und Leistungsspektrum. Dieses umfasst die Bereiche Wellpappenmaschinen, -anlagen und -fabriken, Industrie 4.0, Logistik sowie Single-Pass-Inkjet Digitaldruck. Kunden erhalten ganzheitliche Lösungen – von Entwicklung und Produktion über Installation und Wartung bis zu einer Vielzahl an innovativen Servicelösungen.
+Unter dem Leitbild „Corrugated 4.0“ treibt das Unternehmen die Digitalisierung der Wellpappenindustrie gezielt voran – mit Fokus auf Automatisierung, Effizienz und datengetriebene Prozessoptimierung.
+Als einer der größten Arbeitgeber in der Region bietet das Unternehmen vielfältige Karrieremöglichkeiten und ein umfassendes Angebot an Arbeitgeberleistungen.","BHS Corrugated Maschinen- und Anlagenbau GmbH is the leading solutions provider in the corrugated board industry. With more than 3,100 employees at its headquarters in Weiherhammer, Germany, as well as in more than 20 countries worldwide, the Lifecycle Partner is consistently strong across its entire range of products and services. This encompasses corrugated machinery, plants, and factories, Industry 4.0, logistics, and single-pass inkjet digital printing. Customers receive comprehensive solutions—from development and production through installation and maintenance to a wide range of innovative service solutions.
+Under the “Corrugated 4.0” vision, the company is driving the digitalization of the corrugated industry in a targeted manner—with a focus on automation, efficiency, and data-driven process optimization.
+As one of the largest employers in the region, the company offers diverse career opportunities and a comprehensive range of employee benefits.","Eigenständige Planung und Auslegung von Wellpappenanlagen und Einzelmaschinen
+Technische Beratung und Betreuung unserer Kunden im In- und Ausland
+Erstellung und Finalisierung von Anlagen-, Aufstellungs- und Anschlussplänen
+Koordination von Projekten mit internen Fachabteilungen und externen Partnern
+Betreuung von Montage, Inbetriebnahme und Maschinenabnahme vor Ort
+Überwachung von Projektterminen, Qualität und Projektrisiken
+Unterstützung des Vertriebsteams mit technischen Lösungen und Angeboten
+Pflege projektbezogener Daten und Dokumentationen im ERP-System
+Durchführung von Kundenbesuchen und Begleitung während der gesamten Projektabwicklung","independent planning and design of corrugated cardboard production lines and individual machines
+providing technical consulting and support to our customers in Germany and abroad
+developing and finalizing plant, installation, and connection plans
+coordinating projects with internal departments and external partners
+supervising on-site installation, commissioning, and machine acceptance
+monitoring project deadlines, quality, and project risks
+supporting the sales team with technical solutions and bid proposals
+maintaining project-related data and documentation in the ERP system
+conducting customer visits and providing support throughout project execution","Erfahrung in der technischen Umsetzung und Leitung von Kundenprojekten
+Ausgeprägtes Verantwortungsbewusstsein und hohe Kundenorientierung
+Strukturierte, eigenständige und zuverlässige Arbeitsweise
+Ausgeprägtes Qualitätsbewusstsein und lösungsorientiertes Denken
+Sicheres Auftreten im Umgang mit internen und externen Ansprechpartnern
+Organisationsgeschick und ausgeprägte Kommunikationsfähigkeit
+Kostenbewusstes und unternehmerisches Denken
+Reisebereitschaft im In- und Ausland
+Gute Deutsch- und Englischkenntnisse in Wort und Schrift
+Technisches Verständnis und Begeisterung für komplexe Anlagen- und Maschinenprojekte","experience in the technical implementation and management of customer projects
+a strong sense of responsibility and a high level of customer focus
+a structured, independent, and reliable work style
+a strong focus on quality and a solution-oriented mindset
+confidence in dealing with internal and external contacts
+organizational skills and strong communication abilities
+cost-conscious and business-minded approach
+willingness to travel domestically and internationally
+good written and spoken German and English
+technical understanding and enthusiasm for complex plant and machinery projects","Umfassende, langfristig orientierte Einarbeitung mit Patensystem
+Eine den Stellenanforderungen entsprechend attraktive Vergütung
+30 Tage Urlaub
+Urlaubs- und Weihnachtsgeld
+I. d. R. individuell angepasste Arbeitszeitmodelle
+Interne Karriere- und Aufstiegsmöglichkeiten
+Umfangreiche Fort- und Weiterbildungsmöglichkeiten
+Ein gutes und kollegiales Betriebsklima
+Innovatives Familienmanagement
+Attraktive Gesundheitsangebote inkl. eigenem Fitnessstudio und Massageangebote
+Modernes Betriebsrestaurant
+Kurze Hierarchie- und Organisationswege
+Bitte nutzen Sie zur Bewerbung unsere Karriereseite. Papierdokumente können wir aus organisatorischen Gründen nicht mehr zurückgeben.","comprehensive, long-term oriented training with a mentoring system
+an attractive salary in line with the job requirements
+30 days vacation
+vacation and Christmas bonus
+generally individually adapted working time models
+internal career and promotion opportunities
+extensive training and further education opportunities
+a good and collegial working atmosphere
+innovative family management
+attractive health offers including our own fitness studio and massage offers
+modern company restaurant
+short hierarchical and organizational paths
+Please use our career site to apply. For organizational reasons, we can no longer return paper documents."
+schueler-schnupperpraktikum,TRUE,"Weiherhammer, DE, 92729",ausbildung@bhs-world.com,4,standard,Schüler (m/w/d): Schnupperpraktikum,,Schüler / Praktikum,,Vollzeit,,Befristet,,Ausbildung,,"BHS Corrugated ist mit mehr als 3.100 MitarbeiterInnen an ihrem Hauptsitz in Weiherhammer sowie in mehr als 20 Ländern weltweit vertreten und ist der führende Lösungsanbieter der Wellpappenindustrie.
+Unser Produktportfolio umfasst Hochleistungs-Wellpappenanlagen, Single-Pass-Inkjet Digitaldruck, digital gesteuerte Intralogistik und datengetriebene Prozesse. Diese Lösungen werden abgesichert von Lifecycle Services, die es unseren Kunden ermöglichen, der Konkurrenz einen Schritt voraus zu sein und neue Performance-Standards zu setzen.
+Bei BHS Corrugated besteht für Dich die Möglichkeit, durch ein Schnupper- bzw. Betriebspraktikum während der Schulferien Einblicke in die verschiedensten Ausbildungsbereiche zu erlangen.
+Hierzu ist die Beschäftigung in folgenden Bereichen möglich:
+Unsere Personalabteilung steht Ihnen als Ansprechpartner gerne zur Verfügung.",,,,,,"eine fachliche und persönliche Berufsausbildung auf höchstem Niveau
+eine den Anforderungen und Aufgaben entsprechend angepasste Ausbildungsvergütung
+30 Tage Urlaub, Urlaubs- und Weihnachtsgeld
+Sonderurlaub (Nachmittag) an Kirwamontag und Faschingsdienstag
+Unterstützung für die individuelle Altersvorsorge
+i.d.R. unbefristete Übernahme nach Abschluss einer erfolgreichen Ausbildung
+Zeugnisprämie
+kompetente und praxiserfahrene Ausbilder
+Kennenlern- und Bildungstage zu Ausbildungsbeginn
+individuell angepasste Ausbildungsmöglichkeiten eines Hidden Champions
+umfangreiche Fort- und Weiterbildungsangebote
+Möglichkeit von Montage- und Auslandseinsätzen
+unbeschränkte Karriere- und Aufstiegsmöglichkeiten innerhalb des BHS-Konzerns
+unmittelbare Umsetzung von Theorie in Praxis
+Besuch von Sprachkursen
+Organisation und Teilnahme am jährlichen BHS-Betriebsfest
+Teilnahme am jährlichen „Stiftenfest""
+finanzieller Zuschuss und Freistellung (Prüfung) für PKW-Führerschein
+PKW-Fahrsicherheitstraining
+Erstattung der Fahrtkosten für die Berufsschule
+kostenlose Arbeitskleidung für gewerbliche Auszubildende",
+werkstudent-it-infrastruktur,TRUE,"Weiherhammer, DE, 92729",recruiting@bhs-world.com,4,standard,Werkstudent (m/w/d) IT Infrastruktur,,Werkstudenten,,Teilzeit,,Befristet,,IT,,"BHS Corrugated ist mit mehr als 3.100 MitarbeiterInnen an ihrem Hauptsitz in Weiherhammer sowie in mehr als 20 Ländern weltweit vertreten und ist der führende Lösungsanbieter der Wellpappenindustrie.
+Unser Produktportfolio umfasst Hochleistungs-Wellpappenanlagen, Single-Pass-Inkjet Digitaldruck, digital gesteuerte Intralogistik und datengetriebene Prozesse. Diese Lösungen werden abgesichert von Lifecycle Services, die es unseren Kunden ermöglichen, der Konkurrenz einen Schritt voraus zu sein und neue Performance-Standards zu setzen.",,"Patch- und Schwachstellenmanagement
+Administration Windows Server
+Erarbeiten/Verfeinern von Prozessen und Konzepten
+Erstellen von Dokumentationen
+Betrieb von IT-Infrastrukturen (OnPrem und Cloud)",,"Studiengänge im Bereich Fachinformatik, Wirtschafsinformatik; technische Studiengänge
+Praxiserfahrung im Bereich IT oder Administration
+Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift
+Strukturierte, selbstständige und zuverlässige Arbeitsweise
+Lust auf Kommunikation und Verantwortung
+Motivation und eigene Ideen",,"Möglichkeit von Homeoffice / mobilem, ortsunabhängigem Arbeiten
+Ein gutes und kollegiales Betriebsklima
+Umfassende, langfristig orientierte Einarbeitung mit Patensystem
+Attraktive Gesundheitsangebote inkl. eigenem Fitnessstudio und Massageangebote
+Modernes Betriebsrestaurant
+Aufnahme Stipendiaten-Programm bei ausgezeichneten Leistungen
+Kurze Hierarchie- und Organisationswege",
+technical-sales-engineer-upgrades,TRUE,"Weiherhammer, DE, 92729",recruiting@bhs-world.com,4,standard,Technical Sales Engineer Upgrades (m/w/d),Technical Sales Engineer Upgrades (m/f/x),Berufserfahrene,Experienced Professionals,Vollzeit,Full-time,Unbefristet,Unlimited,Vertrieb,Sales,"BHS Corrugated Maschinen- und Anlagenbau GmbH ist der führende Lösungsanbieter in der Wellpappenindustrie. Mit mehr als 3.100 MitarbeiterInnen am Hauptsitz in Weiherhammer, Deutschland, sowie in mehr als 20 Ländern weltweit ist der Lifecycle Partner durchwegs stark in seinem gesamten Produkt- und Leistungsspektrum. Dieses umfasst die Bereiche Wellpappenmaschinen, -anlagen und -fabriken, Industrie 4.0, Logistik sowie Single-Pass-Inkjet Digitaldruck. Kunden erhalten ganzheitliche Lösungen – von Entwicklung und Produktion über Installation und Wartung bis zu einer Vielzahl an innovativen Servicelösungen.
+Unter dem Leitbild „Corrugated 4.0"" treibt das Unternehmen die Digitalisierung der Wellpappenindustrie gezielt voran – mit Fokus auf Automatisierung, Effizienz und datengetriebene Prozessoptimierung.
+Als einer der größten Arbeitgeber in der Region bietet das Unternehmen vielfältige Karrieremöglichkeiten und ein umfassendes Angebot an Arbeitgeberleistungen.","BHS Corrugated Maschinen- und Anlagenbau GmbH is the leading solutions provider in the corrugated board industry. With more than 3,100 employees at its headquarters in Weiherhammer, Germany, as well as in more than 20 countries worldwide, the Lifecycle Partner is consistently strong across its entire range of products and services. This encompasses corrugated machinery, plants, and factories, Industry 4.0, logistics, and single-pass inkjet digital printing. Customers receive comprehensive solutions—from development and production through installation and maintenance to a wide range of innovative service solutions.
+Under the “Corrugated 4.0” vision, the company is driving the digitalization of the corrugated industry in a targeted manner—with a focus on automation, efficiency, and data-driven process optimization.
+As one of the largest employers in the region, the company offers diverse career opportunities and a comprehensive range of employee benefits.","Intensivierung der Kundenbeziehungen und gezielter Ausbau des Marktanteils unserer Upgrade-Lösungen als Teil unserer Lifecycle-Strategie
+Eigenständige, kompetente Beratung unserer Kunden und weltweiten Niederlassungen zur Lösungsfindung der kundenspezifischen Bedürfnisse an bestehenden BHS-Wellpappeanlagen zur Verlängerung der Lebensdauer („Obsolescence"") und zur Steigerung der Leistungsfähigkeit (""Performance"")
+Vor-Ort-Unterstützung des BHS-Vertriebes als technischer Vertriebsprofi im direkten Kundenkontakt bei Sonderlösungen, Eigenständiges Führen von Verhandlungen bei unseren Kunden in Abstimmung mit den Gebietsverkaufsleitern und Niederlassungen
+Selbstständige Erstellung von Angeboten und Ausbauplänen für unsere Standard- und Sonderprodukte
+Abklärung von Sonderanfragen, die über das bestehende Standard-Produktportfolio hinausgehen, in Zusammenarbeit mit der Abteilung Technik und Produktionsplanung
+Aktive Beteiligung an der Optimierung unserer Prozesse, insbes. bei der Angebotserstellung und Auftragsabwicklung, aber auch über die Schnittstellen zu den verbundenen weiteren Bereichen der Prozesskette Upgrades","strengthening customer relationships and strategically expanding the market share of our upgrade solutions as part of our lifecycle strategy
+providing independent, expert advice to our customers and global branches to develop solutions tailored to their specific needs for existing BHS corrugated board lines, with the aim of extending service life (“obsolescence”) and improving performance
+providing on-site support to the BHS sales team as a technical sales professional in direct contact with customers for custom solutions; independently conducting negotiations with our customers in coordination with regional sales managers and branch offices
+independently preparing quotes and expansion plans for our standard and custom products
+clarifying special inquiries that go beyond the existing standard product portfolio, in collaboration with the Engineering and Production Planning department
+actively participating in the optimization of our processes, particularly in quotation preparation and order processing, as well as through interfaces with other related areas of the process chain (upgrades)","Sie verfügen über ein abgeschlossenes technisches Studium, vorzugsweise im Bereich Maschinenbau oder Wirtschaftsingenieurwesen
+Alternativ haben Sie eine entsprechende Berufsausbildung, ergänzt mit einer Technikerfortbildung
+Erfahrung im industriellen Anlagenbau
+Klare und überzeugende Kommunikationsfähigkeiten sowie Teamfähigkeit zeichnen Sie neben strukturierter und nachhaltiger Arbeitsweise aus
+Routinierter Umgang mit den gängigen MS-Office-Programmen sowie sehr gute Englischkenntnisse
+Bereitschaft zu Dienstreisen zu unseren Kunden / Niederlassungen im verantworteten Vertriebsgebiet","you hold a degree in a technical field, preferably in mechanical engineering or industrial engineering
+alternatively, you have completed relevant vocational training, supplemented by advanced technical training
+experience in industrial plant engineering
+you are characterized by clear and persuasive communication skills and the ability to work well in a team, in addition to a structured and consistent approach to your work
+proficiency in commonly used MS Office programs and very good English skills
+willingness to travel to our customers and branches within your assigned sales territory","Umfassende, langfristig orientierte Einarbeitung mit Patensystem
+Eine den Stellenanforderungen entsprechend attraktive Vergütung
+30 Tage Urlaub
+Urlaubs- und Weihnachtsgeld
+I. d. R. individuell angepasste Arbeitszeitmodelle
+Interne Karriere- und Aufstiegsmöglichkeiten
+Umfangreiche Fort- und Weiterbildungsmöglichkeiten
+Ein gutes und kollegiales Betriebsklima
+Innovatives Familienmanagement
+Attraktive Gesundheitsangebote inkl. eigenem Fitnessstudio und Massageangebote
+Modernes Betriebsrestaurant
+Kurze Hierarchie- und Organisationswege
+Bitte nutzen Sie zur Bewerbung unsere Karriereseite. Papierdokumente können wir aus organisatorischen Gründen nicht mehr zurückgeben.","comprehensive, long-term oriented training with a mentoring system
+an attractive salary in line with the job requirements
+30 days vacation
+vacation and Christmas bonus
+generally individually adapted working time models
+internal career and promotion opportunities
+extensive training and further education opportunities
+a good and collegial working atmosphere
+innovative family management
+attractive health offers including our own fitness studio and massage offers
+modern company restaurant
+short hierarchical and organizational paths
+Please use our career site to apply. For organizational reasons, we can no longer return paper documents."
+werkstudent-corporate-communications,TRUE,"Weiherhammer, DE, 92729",recruiting@bhs-world.com,4,standard,Werkstudent (m/w/d) Corporate Communications - Schwerpunkt: Foto-/Videoproduktion,,Werkstudenten,,Teilzeit,,Befristet,,Kommunikation,,"BHS Corrugated Maschinen- und Anlagenbau GmbH ist der führende Lösungsanbieter in der Wellpappenindustrie. Mit mehr als 3.100 MitarbeiterInnen am Hauptsitz in Weiherhammer, Deutschland, sowie in mehr als 20 Ländern weltweit ist der Lifecycle Partner durchwegs stark in seinem gesamten Produkt- und Leistungsspektrum. Dieses umfasst die Bereiche Wellpappenmaschinen, -anlagen und -fabriken, Industrie 4.0, Logistik sowie Single-Pass-Inkjet Digitaldruck. Kunden erhalten ganzheitliche Lösungen – von Entwicklung und Produktion über Installation und Wartung bis zu einer Vielzahl an innovativen Servicelösungen.
+Unter dem Leitbild „Corrugated 4.0"" treibt das Unternehmen die Digitalisierung der Wellpappenindustrie gezielt voran – mit Fokus auf Automatisierung, Effizienz und datengetriebene Prozessoptimierung.
+Als einer der größten Arbeitgeber in der Region bietet das Unternehmen vielfältige Karrieremöglichkeiten und ein umfassendes Angebot an Arbeitgeberleistungen.",,"Unterstützung bei der Konzeption, Planung und Umsetzung von Foto- und Videoproduktionen (Grafiken, Fotografien, Animationen und Videos) für die interne und externe Kommunikation
+Eigenständige Erstellung und Bearbeitung von Bild- und Videomaterial für Social Media, Website, Newsletter, Intranet, etc.
+Mitwirkung bei der Entwicklung visueller Content-Strategien im Rahmen der Unternehmenskommunikation
+Organisation und Nachbearbeitung von Shootings und Drehs
+Unterstützung bei redaktionellen Aufgaben rund um unsere visuellen Kommunikationsformate
+Betreuung des Themengebiets Künstliche Intelligenz im Bereich der Mediengenerierung",,"Eingeschriebener Student (m/w/d) im Bereich Medienproduktion, Film/Fotografie, Kommunikationsdesign, o.ä.
+Erste praktische Erfahrung in der Foto- und/oder Videoproduktion, idealerweise im Unternehmenskontext oder Agenturumfeld
+Sicherer Umgang mit Kamera-, Licht- und Tonequipment sowie gängiger Bild- und Videobearbeitungssoftware (z. B. Adobe Creative Cloud: Premiere Pro, Photoshop, After Effects, etc.)
+Kreativität, ein Gespür für visuelles Storytelling und ein gutes Auge für Ästhetik
+Selbstständige, strukturierte Arbeitsweise und Teamfähigkeit",,"Möglichkeit von Homeoffice / mobilem, ortsunabhängigem Arbeiten
+Ein gutes und kollegiales Betriebsklima
+Umfassende, langfristig orientierte Einarbeitung mit Patensystem
+Attraktive Gesundheitsangebote inkl. eigenem Fitnessstudio und Massageangebote
+Modernes Betriebsrestaurant
+Aufnahme Stipendiaten-Programm bei ausgezeichneten Leistungen
+Kurze Hierarchie- und Organisationswege",
+duales-studium-industrie-4-0,TRUE,"Weiherhammer, DE, 92729",ausbildung@bhs-world.com,6,standard,Duales Studium: Industrie 4.0 mit der Berufsausbildung Fachinformatiker (m/w/d),,Duale Studenten,,Vollzeit,,Befristet,,Ausbildung,,"BHS Corrugated Maschinen- und Anlagenbau GmbH ist der führende Lösungsanbieter in der Wellpappenindustrie. Mit mehr als 3.100 MitarbeiterInnen am Hauptsitz in Weiherhammer, Deutschland, sowie in mehr als 20 Ländern weltweit ist der Lifecycle Partner durchwegs stark in seinem gesamten Produkt- und Leistungsspektrum. Dieses umfasst die Bereiche Wellpappenmaschinen, -anlagen und -fabriken, Industrie 4.0, Logistik sowie Single-Pass-Inkjet Digitaldruck. Kunden erhalten ganzheitliche Lösungen – von Entwicklung und Produktion über Installation und Wartung bis zu einer Vielzahl an innovativen Servicelösungen.
+Unter dem Leitbild „Corrugated 4.0"" treibt das Unternehmen die Digitalisierung der Wellpappenindustrie gezielt voran – mit Fokus auf Automatisierung, Effizienz und datengetriebene Prozessoptimierung.
+Als einer der größten Arbeitgeber in der Region bietet das Unternehmen vielfältige Karrieremöglichkeiten und ein umfassendes Angebot an Arbeitgeberleistungen.",,,,,,"eine fachliche und persönliche Berufsausbildung auf höchstem Niveau
+eine den Anforderungen und Aufgaben entsprechend angepasste Ausbildungsvergütung
+30 Tage Urlaub, Urlaubs- und Weihnachtsgeld
+Sonderurlaub (Nachmittag) an Kirwamontag und Faschingsdienstag
+Unterstützung für die individuelle Altersvorsorge
+Zeugnisprämie
+kompetente und praxiserfahrene Ausbilder
+Kennenlern- und Bildungstage zu Ausbildungsbeginn
+individuell angepasste Ausbildungsmöglichkeiten eines Hidden Champions
+umfangreiche Fort- und Weiterbildungsangebote
+Möglichkeit von Montage- und Auslandseinsätzen
+unbeschränkte Karriere- und Aufstiegsmöglichkeiten innerhalb des BHS-Konzerns
+unmittelbare Umsetzung von Theorie in Praxis
+Besuch von Sprachkursen
+Organisation und Teilnahme am jährlichen BHS-Betriebsfest
+finanzieller Zuschuss und Freistellung (Prüfung) für PKW-Führerschein
+Erstattung der Fahrtkosten für die Berufsschule
+kostenlose Arbeitskleidung für gewerbliche Auszubildende",
+ausbildung-fachinformatiker-anwendungsentwicklung,TRUE,"Weiherhammer, DE, 92729",ausbildung@bhs-world.com,6,standard,Berufsausbildung: Fachinformatiker (m/w/d) - Anwendungsentwicklung,,Auszubildende,,Vollzeit,,Befristet,,Ausbildung,,"BHS Corrugated Maschinen- und Anlagenbau GmbH ist der führende Lösungsanbieter in der Wellpappenindustrie. Mit mehr als 3.100 MitarbeiterInnen am Hauptsitz in Weiherhammer, Deutschland, sowie in mehr als 20 Ländern weltweit ist der Lifecycle Partner durchwegs stark in seinem gesamten Produkt- und Leistungsspektrum. Dieses umfasst die Bereiche Wellpappenmaschinen, -anlagen und -fabriken, Industrie 4.0, Logistik sowie Single-Pass-Inkjet Digitaldruck. Kunden erhalten ganzheitliche Lösungen – von Entwicklung und Produktion über Installation und Wartung bis zu einer Vielzahl an innovativen Servicelösungen.
+Unter dem Leitbild „Corrugated 4.0"" treibt das Unternehmen die Digitalisierung der Wellpappenindustrie gezielt voran – mit Fokus auf Automatisierung, Effizienz und datengetriebene Prozessoptimierung.
+Als einer der größten Arbeitgeber in der Region bietet das Unternehmen vielfältige Karrieremöglichkeiten und ein umfassendes Angebot an Arbeitgeberleistungen.
+Fachinformatiker (m/w/d) im Bereich Anwendungsentwicklung setzen fachspezifische Anforderungen in komplexe Hard- und Softwaresysteme um. Sie analysieren, planen und realisieren informations- und telekommunikationstechnische Systeme. Weiter führen sie neue oder modifizierte Systeme der Informations- und Telekommunikationstechnik ein. Kunden und Benutzern stehen sie für die fachliche Beratung, Betreuung und Schulung zur Verfügung. Typische Einsatzgebiete in der Fachrichtung Anwendungsentwicklung sind z.B. kaufmännische Systeme, technische Systeme, Expertensysteme, mathematisch-wissenschaftliche Systeme oder Multimedia-Systeme.",,"Konzeption und Realisierung kundenspezifischer Softwareanwendungen
+Testen und Dokumentieren von Anwendungen
+Modifizierung bestehender Anwendungen
+Einsetzen von Methoden der Projektplanung, -durchführung und -kontrolle
+Anwendung von Software-Entwicklungswerkzeugen
+Entwicklung anwendungsgerechter und ergonomischer Bedienoberflächen
+Behebung von Fehlern durch den Einsatz von Experten- und Diagnosesystemen
+Beratung und Schulung von Benutzern",,"Voraussetzungen: Mittlere Reife
+Ausbildungsdauer: 3 Jahre",,"eine fachliche und persönliche Berufsausbildung auf höchstem Niveau
+eine den Anforderungen und Aufgaben entsprechend angepasste Ausbildungsvergütung
+30 Tage Urlaub, Urlaubs- und Weihnachtsgeld
+Sonderurlaub (Nachmittag) an Kirwamontag und Faschingsdienstag
+Unterstützung für die individuelle Altersvorsorge
+Zeugnisprämie
+kompetente und praxiserfahrene Ausbilder
+Kennenlern- und Bildungstage zu Ausbildungsbeginn
+individuell angepasste Ausbildungsmöglichkeiten eines Hidden Champions
+umfangreiche Fort- und Weiterbildungsangebote
+Möglichkeit von Montage- und Auslandseinsätzen
+unbeschränkte Karriere- und Aufstiegsmöglichkeiten innerhalb des BHS-Konzerns
+unmittelbare Umsetzung von Theorie in Praxis
+Besuch von Sprachkursen
+Organisation und Teilnahme am jährlichen BHS-Betriebsfest
+finanzieller Zuschuss und Freistellung (Prüfung) für PKW-Führerschein
+Erstattung der Fahrtkosten für die Berufsschule
+kostenlose Arbeitskleidung für gewerbliche Auszubildende",
+ausbildung-industriemechaniker,TRUE,"Weiherhammer, DE, 92729",ausbildung@bhs-world.com,6,standard,Berufsausbildung: Industriemechaniker (m/w/d),,Auszubildende,,Vollzeit,,Befristet,,Ausbildung,,"BHS Corrugated Maschinen- und Anlagenbau GmbH ist der führende Lösungsanbieter in der Wellpappenindustrie. Mit mehr als 3.100 MitarbeiterInnen am Hauptsitz in Weiherhammer, Deutschland, sowie in mehr als 20 Ländern weltweit ist der Lifecycle Partner durchwegs stark in seinem gesamten Produkt- und Leistungsspektrum. Dieses umfasst die Bereiche Wellpappenmaschinen, -anlagen und -fabriken, Industrie 4.0, Logistik sowie Single-Pass-Inkjet Digitaldruck. Kunden erhalten ganzheitliche Lösungen – von Entwicklung und Produktion über Installation und Wartung bis zu einer Vielzahl an innovativen Servicelösungen.
+Unter dem Leitbild „Corrugated 4.0"" treibt das Unternehmen die Digitalisierung der Wellpappenindustrie gezielt voran – mit Fokus auf Automatisierung, Effizienz und datengetriebene Prozessoptimierung.
+Als einer der größten Arbeitgeber in der Region bietet das Unternehmen vielfältige Karrieremöglichkeiten und ein umfassendes Angebot an Arbeitgeberleistungen.
+In der Fachrichtung Maschinen- und Anlagenbau montieren Industriemechaniker (m/w/d) anhand von Arbeitsunterlagen Bauteile zu Baugruppen und diese zu Maschinen. Hierbei bearbeiten sie Bauteile maschinell und manuell oder stellen sie erforderlichenfalls selbst her. Sie überprüfen sowohl Baugruppen direkt bei ihrer Fertigstellung als auch die fertig montierten Maschinen an Prüfständen auf ihre Funktion hin und nehmen sie danach in Betrieb. Darüber hinaus führen sie auch regelmäßige Inspektionen durch und warten die Maschinen. Industriemechaniker (m/w/d) der Fachrichtung Maschinen- und Anlagenbau arbeiten im industriellen Bereich, z.B. in Maschinenbaufirmen sowie in Wartungs-, Instandsetzungs- und Reparaturabteilungen unterschiedlicher Industriebetriebe. Ihr Arbeitsplatz dort kann sowohl eine Werkstatt, eine Montagehalle, ein Prüfstand oder eine Baustelle sein.",,"Arbeits- und Tarifrecht, Arbeitsschutz
+Arbeitssicherheit, Umweltschutz und rationelle Energieverwendung
+Lesen, Anwenden und Erstellen von technischen Unterlagen
+Planen und Steuern von Arbeits- und Bewegungsabläufen, Kontrollieren und Beurteilen der Ergebnisse
+Prüfen, Anreißen und Kennzeichnen, Warten von Betriebsmitteln
+Ausrichten und Spanen von Werkzeugen und Werkstücken
+Lesen, Anwenden und Erstellen von technischen Unterlagen
+Planen und Steuern von Arbeits- und Bewegungsabläufen
+Kontrollieren und Beurteilen der Ergebnisse
+Warten von Betriebsmitteln, Prüfen, Anreißen und Kennzeichnen
+Manuelles Spanen, Maschinelles Spanen
+Aufbauen und Prüfen von Pneumatikschaltungen
+Montieren von Baugruppen und Bauteilen
+Prüfen und Einstellen von einzelnen Funktionen an Baugruppen",,"Voraussetzungen: mindestens qualifizierender Hauptschulabschluss
+Ausbildungsdauer: 3,5 Jahre",,"eine fachliche und persönliche Berufsausbildung auf höchstem Niveau
+eine den Anforderungen und Aufgaben entsprechend angepasste Ausbildungsvergütung
+30 Tage Urlaub, Urlaubs- und Weihnachtsgeld
+Sonderurlaub (Nachmittag) an Kirwamontag und Faschingsdienstag
+Unterstützung für die individuelle Altersvorsorge
+Zeugnisprämie
+kompetente und praxiserfahrene Ausbilder
+Kennenlern- und Bildungstage zu Ausbildungsbeginn
+individuell angepasste Ausbildungsmöglichkeiten eines Hidden Champions
+umfangreiche Fort- und Weiterbildungsangebote
+Möglichkeit von Montage- und Auslandseinsätzen
+unbeschränkte Karriere- und Aufstiegsmöglichkeiten innerhalb des BHS-Konzerns
+unmittelbare Umsetzung von Theorie in Praxis
+Besuch von Sprachkursen
+Organisation und Teilnahme am jährlichen BHS-Betriebsfest
+finanzieller Zuschuss und Freistellung (Prüfung) für PKW-Führerschein
+Erstattung der Fahrtkosten für die Berufsschule
+kostenlose Arbeitskleidung für gewerbliche Auszubildende",
+ausbildung-produktionstechnologe,TRUE,"Weiherhammer, DE, 92729",ausbildung@bhs-world.com,6,standard,Berufsausbildung: Produktionstechnologe (m/w/d),,Auszubildende,,Vollzeit,,Befristet,,Ausbildung,,"BHS Corrugated Maschinen- und Anlagenbau GmbH ist der führende Lösungsanbieter in der Wellpappenindustrie. Mit mehr als 3.100 MitarbeiterInnen am Hauptsitz in Weiherhammer, Deutschland, sowie in mehr als 20 Ländern weltweit ist der Lifecycle Partner durchwegs stark in seinem gesamten Produkt- und Leistungsspektrum. Dieses umfasst die Bereiche Wellpappenmaschinen, -anlagen und -fabriken, Industrie 4.0, Logistik sowie Single-Pass-Inkjet Digitaldruck. Kunden erhalten ganzheitliche Lösungen – von Entwicklung und Produktion über Installation und Wartung bis zu einer Vielzahl an innovativen Servicelösungen.
+Unter dem Leitbild „Corrugated 4.0"" treibt das Unternehmen die Digitalisierung der Wellpappenindustrie gezielt voran – mit Fokus auf Automatisierung, Effizienz und datengetriebene Prozessoptimierung.
+Als einer der größten Arbeitgeber in der Region bietet das Unternehmen vielfältige Karrieremöglichkeiten und ein umfassendes Angebot an Arbeitgeberleistungen.
+Produktionstechnologen (m/w/d) gelten bei BHS Corrugated als eine Art ""Industriemechaniker der nächsten Generation"". Sie planen industrielle Produktionsprozesse, richten Produktionsanlagen ein und nehmen diese vor Ort in Betrieb. Aber auch für die Erledigung von nachgeordneten Arbeitsschritten, wie beispielsweise die Überwachung der erstellten Anlagen, das Erkennen von Verbesserungspotentialen an Maschinen oder für die Dokumentation des gesamten Prozesses, werden Produktionstechnologen (m/w/d) bei BHS Corrugated bestens vorbereitet. Im Maschinen- und Anlagenbau arbeiten Produktionstechnologen (m/w/d) in erster Linie im Montage-, Produktions- oder Servicebereich. Darüber hinaus können sie in Industrieunternehmen unterschiedlicher Wirtschaftszweige tätig sein, in denen Produktionstechnologie zum Einsatz kommt oder bei denen produktionsunterstützende Dienstleistungen angeboten werden.",,"Grundausbildung Metallbereich inkl. Spanen, Trennen, Fügen, Schweißen, Hydraulik, Pneumatik
+Grundlagen Elektrotechnik/Elektronik
+Montieren von Baugruppen und Bauteilen
+Inbetriebnahme und Einrichten von Produktionsanlagen, Vorbereitung auf den Produktionsanlauf, Ermittlung der Prozessparameter
+Einführung und Erprobung von neuen Produkten und Verfahren und deren Dokumentation
+Programmierung und Parametrierung von Produktionsanlagen
+Organisation logistischer Prozesse für Produkte, Werkzeuge, Prozessmedien und Reststoffe
+Simulation von Prozessen, Produktion und Testen von Mustern und Prototypen
+Überwachung der Prozessabläufe, Durchführung prozessbegleitender Prüfungen und Erstellen von Dokumentationen
+Erkennen von Verbesserungspotentialen in den Prozessabläufen
+Ermittlung und Dokumentation von Prozess- und Qualitätsabweichungen, Ergreifung von Maßnahmen zu deren Beseitigung und Durchführung systematischer Fehleranalysen
+Beurteilung und Analyse von Produktionsanlagen hinsichtlich der Realisierung von Produktionsaufträgen
+Anwenden der Standardsoftware, Produktions- und Qualitätssicherungssoftware
+Anwenden der Normen, Vorschriften und Regeln zur Sicherung der Prozessfähigkeit von Produktionsanlagen
+Pflege der Daten für die Produktionsplanung und -steuerung
+Informationsaustausch zwischen der Produktion und anderen Betriebsbereichen",,"Voraussetzungen: sehr guter qualifizierender Hauptschulabschluss / Mittlere Reife
+Ausbildungsdauer: 3 Jahre",,"eine fachliche und persönliche Berufsausbildung auf höchstem Niveau
+eine den Anforderungen und Aufgaben entsprechend angepasste Ausbildungsvergütung
+30 Tage Urlaub, Urlaubs- und Weihnachtsgeld
+Sonderurlaub (Nachmittag) an Kirwamontag und Faschingsdienstag
+Unterstützung für die individuelle Altersvorsorge
+Zeugnisprämie
+kompetente und praxiserfahrene Ausbilder
+Kennenlern- und Bildungstage zu Ausbildungsbeginn
+individuell angepasste Ausbildungsmöglichkeiten eines Hidden Champions
+umfangreiche Fort- und Weiterbildungsangebote
+Möglichkeit von Montage- und Auslandseinsätzen
+unbeschränkte Karriere- und Aufstiegsmöglichkeiten innerhalb des BHS-Konzerns
+unmittelbare Umsetzung von Theorie in Praxis
+Besuch von Sprachkursen
+Organisation und Teilnahme am jährlichen BHS-Betriebsfest
+finanzieller Zuschuss und Freistellung (Prüfung) für PKW-Führerschein
+Erstattung der Fahrtkosten für die Berufsschule
+kostenlose Arbeitskleidung für gewerbliche Auszubildende",
+ausbildung-zerspanungsmechaniker,TRUE,"Weiherhammer, DE, 92729",ausbildung@bhs-world.com,6,standard,Berufsausbildung: Zerspanungsmechaniker (m/w/d),,Auszubildende,,Vollzeit,,Befristet,,Ausbildung,,"BHS Corrugated Maschinen- und Anlagenbau GmbH ist der führende Lösungsanbieter in der Wellpappenindustrie. Mit mehr als 3.100 MitarbeiterInnen am Hauptsitz in Weiherhammer, Deutschland, sowie in mehr als 20 Ländern weltweit ist der Lifecycle Partner durchwegs stark in seinem gesamten Produkt- und Leistungsspektrum. Dieses umfasst die Bereiche Wellpappenmaschinen, -anlagen und -fabriken, Industrie 4.0, Logistik sowie Single-Pass-Inkjet Digitaldruck. Kunden erhalten ganzheitliche Lösungen – von Entwicklung und Produktion über Installation und Wartung bis zu einer Vielzahl an innovativen Servicelösungen.
+Unter dem Leitbild „Corrugated 4.0"" treibt das Unternehmen die Digitalisierung der Wellpappenindustrie gezielt voran – mit Fokus auf Automatisierung, Effizienz und datengetriebene Prozessoptimierung.
+Als einer der größten Arbeitgeber in der Region bietet das Unternehmen vielfältige Karrieremöglichkeiten und ein umfassendes Angebot an Arbeitgeberleistungen.
+In der Fachrichtung Drehmaschinensysteme stellen Zerspanungsmechaniker (m/w/d) Werkstücke für Maschinen, Geräte und Anlagen durch Dreh- und Bohroperationen an konventionellen oder computergesteuerten Werkzeugmaschinen her und bearbeiten diese. Dabei planen sie die entsprechenden Fertigungsabläufe, wählen die notwendigen Werkzeuge aus und erstellen Programme für computergesteuerte Maschinen. Sie richten Drehmaschinen einschließlich der Werkzeuge und Vorrichtungen ein, überwachen den Fertigungsprozess und prüfen und sichern die Qualität der Werkstücke. Zudem warten und pflegen sie die zu bedienenden Maschinen. Sie arbeiten überwiegend in metallbe- und verarbeitenden Industriebetrieben, z.B. in Drehereien, in Betrieben für Maschinen- und Anlagenbau oder in der Elektroindustrie. Dabei sind sie vor allem in Maschinen- bzw. Werkhallen tätig.",,"berufsspezifische Grundausbildung im Metallbereich
+Aufbau und Organisation des Ausbildungsbetriebes
+Arbeits- und Tarifrecht, Arbeitsschutz
+Arbeitssicherheit, Umweltschutz und rationelle Energieverwendung
+Lesen, Anwenden und Erstellen von technischen Unterlagen
+Unterscheiden, Zuordnen und Handhaben von Werk- und Hilfsstoffen
+Planen und Steuern von Arbeits- und Bewegungsabläufen, Kontrollieren und Beurteilen der Ergebnisse
+Warten von Betriebsmitteln
+Prüfen, Anreißen und Kennzeichnen
+Ausrichten und Spanen von Werkzeugen und Werkstücken
+Manuelles Spanen
+Maschinelles Spanen
+Trennen und Umformen
+Fügen
+Einrichten von Drehmaschinen, Werkzeugen und Vorrichtungen
+Bedienen und Überwachen von Drehmaschinen
+Erstellen, Eingeben und Optimieren von Programmen sowie Herstellen der Werkstücke auf nummerisch gesteuerten Werkzeugmaschinen
+Bearbeiten von Werkstücken auf Drehmaschinen oder nummerisch gesteuerten Werkzeugmaschinen
+Prüfen der Werkstücke und Sichern der Qualität
+Prüfen und Scharfstellen von Dreh- und Bohrwerkzeugen
+Warten von Drehmaschinen",,"Voraussetzungen: mindestens qualifizierender Hauptschulabschluss
+Ausbildungsdauer: 3,5 Jahre",,"eine fachliche und persönliche Berufsausbildung auf höchstem Niveau
+eine den Anforderungen und Aufgaben entsprechend angepasste Ausbildungsvergütung
+30 Tage Urlaub, Urlaubs- und Weihnachtsgeld
+Sonderurlaub (Nachmittag) an Kirwamontag und Faschingsdienstag
+Unterstützung für die individuelle Altersvorsorge
+Zeugnisprämie
+kompetente und praxiserfahrene Ausbilder
+Kennenlern- und Bildungstage zu Ausbildungsbeginn
+individuell angepasste Ausbildungsmöglichkeiten eines Hidden Champions
+umfangreiche Fort- und Weiterbildungsangebote
+Möglichkeit von Montage- und Auslandseinsätzen
+unbeschränkte Karriere- und Aufstiegsmöglichkeiten innerhalb des BHS-Konzerns
+unmittelbare Umsetzung von Theorie in Praxis
+Besuch von Sprachkursen
+Organisation und Teilnahme am jährlichen BHS-Betriebsfest
+finanzieller Zuschuss und Freistellung (Prüfung) für PKW-Führerschein
+Erstattung der Fahrtkosten für die Berufsschule
+kostenlose Arbeitskleidung für gewerbliche Auszubildende",
+duales-studium-ki,TRUE,"Weiherhammer, DE, 92729",ausbildung@bhs-world.com,6,standard,Duales Studium: angewandte künstliche Intelligenz mit der Berufsausbildung Fachinformatiker (m/w/d),,Duale Studenten,,Vollzeit,,Befristet,,Ausbildung,,"BHS Corrugated Maschinen- und Anlagenbau GmbH ist der führende Lösungsanbieter in der Wellpappenindustrie. Mit mehr als 3.100 MitarbeiterInnen am Hauptsitz in Weiherhammer, Deutschland, sowie in mehr als 20 Ländern weltweit ist der Lifecycle Partner durchwegs stark in seinem gesamten Produkt- und Leistungsspektrum. Dieses umfasst die Bereiche Wellpappenmaschinen, -anlagen und -fabriken, Industrie 4.0, Logistik sowie Single-Pass-Inkjet Digitaldruck. Kunden erhalten ganzheitliche Lösungen – von Entwicklung und Produktion über Installation und Wartung bis zu einer Vielzahl an innovativen Servicelösungen.
+Unter dem Leitbild „Corrugated 4.0"" treibt das Unternehmen die Digitalisierung der Wellpappenindustrie gezielt voran – mit Fokus auf Automatisierung, Effizienz und datengetriebene Prozessoptimierung.
+Als einer der größten Arbeitgeber in der Region bietet das Unternehmen vielfältige Karrieremöglichkeiten und ein umfassendes Angebot an Arbeitgeberleistungen.",,,,,,"eine fachliche und persönliche Berufsausbildung auf höchstem Niveau
+eine den Anforderungen und Aufgaben entsprechend angepasste Ausbildungsvergütung
+30 Tage Urlaub, Urlaubs- und Weihnachtsgeld
+Sonderurlaub (Nachmittag) an Kirwamontag und Faschingsdienstag
+Unterstützung für die individuelle Altersvorsorge
+Zeugnisprämie
+kompetente und praxiserfahrene Ausbilder
+Kennenlern- und Bildungstage zu Ausbildungsbeginn
+individuell angepasste Ausbildungsmöglichkeiten eines Hidden Champions
+umfangreiche Fort- und Weiterbildungsangebote
+Möglichkeit von Montage- und Auslandseinsätzen
+unbeschränkte Karriere- und Aufstiegsmöglichkeiten innerhalb des BHS-Konzerns
+unmittelbare Umsetzung von Theorie in Praxis
+Besuch von Sprachkursen
+Organisation und Teilnahme am jährlichen BHS-Betriebsfest
+finanzieller Zuschuss und Freistellung (Prüfung) für PKW-Führerschein
+Erstattung der Fahrtkosten für die Berufsschule
+kostenlose Arbeitskleidung für gewerbliche Auszubildende",
+ausbildung-fachinformatiker-systemintegration,TRUE,"Weiherhammer, DE, 92729",ausbildung@bhs-world.com,6,standard,Berufsausbildung: Fachinformatiker (m/w/d) - Systemintegration,,Auszubildende,,Vollzeit,,Befristet,,Ausbildung,,"BHS Corrugated Maschinen- und Anlagenbau GmbH ist der führende Lösungsanbieter in der Wellpappenindustrie. Mit mehr als 3.100 MitarbeiterInnen am Hauptsitz in Weiherhammer, Deutschland, sowie in mehr als 20 Ländern weltweit ist der Lifecycle Partner durchwegs stark in seinem gesamten Produkt- und Leistungsspektrum. Dieses umfasst die Bereiche Wellpappenmaschinen, -anlagen und -fabriken, Industrie 4.0, Logistik sowie Single-Pass-Inkjet Digitaldruck. Kunden erhalten ganzheitliche Lösungen – von Entwicklung und Produktion über Installation und Wartung bis zu einer Vielzahl an innovativen Servicelösungen.
+Unter dem Leitbild „Corrugated 4.0"" treibt das Unternehmen die Digitalisierung der Wellpappenindustrie gezielt voran – mit Fokus auf Automatisierung, Effizienz und datengetriebene Prozessoptimierung.
+Als einer der größten Arbeitgeber in der Region bietet das Unternehmen vielfältige Karrieremöglichkeiten und ein umfassendes Angebot an Arbeitgeberleistungen.
+Fachinformatiker für Systemintegration (m/w/d) sorgen dafür, dass bei BHS Corrugated digital gearbeitet werden kann. Sie stellen sicher, dass auf Daten zugegriffen und diese ausgetauscht werden können. Außerdem kümmern sich Fachinformatiker (m/w/d) um alle Geräte in den Büros, den Produktionshallen und den PC-Terminals. Dabei ist es unwesentlich um welches Gerät es sich dabei handelt. Zum täglichen Aufgabengebiet gehören Firmenhandys, PCs, Laptops und auch das Herzstück – die Netzwerke von BHS Corrugated – also die Server und Clouds. Fachinformatiker für Systemintegration (m/w/d) kennen sich bei BHS Corrugated genauso gut mit der Software, wie mit der Hardware aus.",,"Diagnose und Behebung von Störungen
+Vernetzung von Geräten
+Einkauf von Software-Lizenzen und Hardware
+Einrichten der Programme
+Überprüfung der Hardware und Software
+Beratung und Schulung von Benutzern
+Lösung von Hard- und Softwareproblemen",,"Voraussetzungen: Mittlere Reife
+Ausbildungsdauer: 3 Jahre",,"eine fachliche und persönliche Berufsausbildung auf höchstem Niveau
+eine den Anforderungen und Aufgaben entsprechend angepasste Ausbildungsvergütung
+30 Tage Urlaub, Urlaubs- und Weihnachtsgeld
+Sonderurlaub (Nachmittag) an Kirwamontag und Faschingsdienstag
+Unterstützung für die individuelle Altersvorsorge
+Zeugnisprämie
+kompetente und praxiserfahrene Ausbilder
+Kennenlern- und Bildungstage zu Ausbildungsbeginn
+individuell angepasste Ausbildungsmöglichkeiten eines Hidden Champions
+umfangreiche Fort- und Weiterbildungsangebote
+Möglichkeit von Montage- und Auslandseinsätzen
+unbeschränkte Karriere- und Aufstiegsmöglichkeiten innerhalb des BHS-Konzerns
+unmittelbare Umsetzung von Theorie in Praxis
+Besuch von Sprachkursen
+Organisation und Teilnahme am jährlichen BHS-Betriebsfest
+finanzieller Zuschuss und Freistellung (Prüfung) für PKW-Führerschein
+Erstattung der Fahrtkosten für die Berufsschule
+kostenlose Arbeitskleidung für gewerbliche Auszubildende",
+werkstudent-informationssicherheit,TRUE,"Weiherhammer, DE, 92729",recruiting@bhs-world.com,4,standard,Werkstudent (m/w/d) im Bereich Informationssicherheit,,Werkstudenten,,Teilzeit,,Befristet,,IT,,"BHS Corrugated Maschinen- und Anlagenbau GmbH ist der führende Lösungsanbieter in der Wellpappenindustrie. Mit mehr als 3.100 MitarbeiterInnen am Hauptsitz in Weiherhammer, Deutschland, sowie in mehr als 20 Ländern weltweit ist der Lifecycle Partner durchwegs stark in seinem gesamten Produkt- und Leistungsspektrum. Dieses umfasst die Bereiche Wellpappenmaschinen, -anlagen und -fabriken, Industrie 4.0, Logistik sowie Single-Pass-Inkjet Digitaldruck. Kunden erhalten ganzheitliche Lösungen – von Entwicklung und Produktion über Installation und Wartung bis zu einer Vielzahl an innovativen Servicelösungen.
+Unter dem Leitbild „Corrugated 4.0"" treibt das Unternehmen die Digitalisierung der Wellpappenindustrie gezielt voran – mit Fokus auf Automatisierung, Effizienz und datengetriebene Prozessoptimierung.
+Als einer der größten Arbeitgeber in der Region bietet das Unternehmen vielfältige Karrieremöglichkeiten und ein umfassendes Angebot an Arbeitgeberleistungen.",,"Unterstützung bei der Weiterentwicklung des ISMS nach ISO/IEC 27001
+Mitwirkung bei internen und externen Audits
+Erstellung und Pflege von Sicherheitsdokumentationen
+Durchführung von Risikoanalysen
+Unterstützung bei der Überwachung und Analyse von IT-Sicherheitsvorfällen
+Mitarbeit bei der Erstellung und Durchführung von Schulungen
+Analyse und Unterstützung bei der Implementierung neuer Sicherheitstechnologien
+Unterstützung bei der Erstellung und Pflege von Notfallplänen",,"Laufendes Studium im Bereich Informatik, Wirtschaftsinformatik, IT-Sicherheit, Cybersecurity oder Vergleichbarem
+Grundkenntnisse in IT-Sicherheit, Netzwerktechnologien und Sicherheitsstandards (insbesondere ISO/IEC 27001, IT-Grundschutz, NIST)
+Interesse und Verständnis für Bedrohungs- und Schwachstellenmanagement, Penetrationstests und Vulnerability Scanning
+Eigeninitiative, Teamfähigkeit und Zuverlässigkeit
+Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift
+Sicherer Umgang mit MS Office (Word, Excel, PowerPoint)",,"Möglichkeit von Homeoffice / mobilem, ortsunabhängigem Arbeiten
+Ein gutes und kollegiales Betriebsklima
+Umfassende, langfristig orientierte Einarbeitung mit Patensystem
+Attraktive Gesundheitsangebote inkl. eigenem Fitnessstudio und Massageangebote
+Modernes Betriebsrestaurant
+Aufnahme Stipendiaten-Programm bei ausgezeichneten Leistungen
+Gute Übernahme-Chancen
+Kurze Hierarchie- und Organisationswege",
+finance-business-partner,TRUE,"Weiherhammer, DE, 92729",recruiting@bhs-world.com,4,standard,Finance Business Partner (m/w/d),Finance Business Partner (m/f/x),Berufserfahrene,Experienced Professionals,Vollzeit,Full-time,Unbefristet,Unlimited,Finance,Finance,"BHS Corrugated Maschinen- und Anlagenbau GmbH ist der führende Lösungsanbieter in der Wellpappenindustrie. Mit mehr als 3.100 MitarbeiterInnen am Hauptsitz in Weiherhammer, Deutschland, sowie in mehr als 20 Ländern weltweit ist der Lifecycle Partner durchwegs stark in seinem gesamten Produkt- und Leistungsspektrum. Dieses umfasst die Bereiche Wellpappenmaschinen, -anlagen und -fabriken, Industrie 4.0, Logistik sowie Single-Pass-Inkjet Digitaldruck. Kunden erhalten ganzheitliche Lösungen – von Entwicklung und Produktion über Installation und Wartung bis zu einer Vielzahl an innovativen Servicelösungen.
+Unter dem Leitbild „Corrugated 4.0"" treibt das Unternehmen die Digitalisierung der Wellpappenindustrie gezielt voran – mit Fokus auf Automatisierung, Effizienz und datengetriebene Prozessoptimierung.
+Als einer der größten Arbeitgeber in der Region bietet das Unternehmen vielfältige Karrieremöglichkeiten und ein umfassendes Angebot an Arbeitgeberleistungen.","BHS Corrugated Maschinen- und Anlagenbau GmbH is the leading solutions provider in the corrugated board industry. With more than 3,100 employees at its headquarters in Weiherhammer, Germany, as well as in more than 20 countries worldwide, the Lifecycle Partner is consistently strong across its entire range of products and services. This encompasses corrugated machinery, plants, and factories, Industry 4.0, logistics, and single-pass inkjet digital printing. Customers receive comprehensive solutions—from development and production through installation and maintenance to a wide range of innovative service solutions.
+Under the “Corrugated 4.0” vision, the company is driving the digitalization of the corrugated industry in a targeted manner—with a focus on automation, efficiency, and data-driven process optimization.
+As one of the largest employers in the region, the company offers diverse career opportunities and a comprehensive range of employee benefits.","Betreuung und finanzielle Steuerung der Business Unit Lifecycle und deren internationalen Einheiten
+Sparringspartner für Management und Fachbereiche
+Erstellung von Reportings, Forecasts und Management-Analysen
+Analyse und Kommentierung von Monats-, Quartals- und Jahresabschlüssen und Ableitung von Handlungsempfehlungen
+Vorbereitung und Moderation von Business Reviews
+Unterstützung bei der Übersetzung der Strategie in Budgets und operative Ziele
+Weiterentwicklung von Reporting-, Controlling- und Planungs-Prozessen
+Unterstützung bei der Digitalisierung und Automatisierung von Finance-Prozessen","monitoring and financial management of the Lifecycle Business Unit and its international units
+acting as a sounding board for management and functional departments
+preparing reports, forecasts, and management analyses
+analyzing and commenting on monthly, quarterly, and annual financial statements and deriving recommendations for action
+preparing and facilitating business reviews
+supporting the translation of strategy into budgets and operational goals
+further developing reporting, controlling, and planning processes
+supporting the digitization and automation of finance processes","Abgeschlossenes Studium im Bereich Wirtschaft, Finance oder Controlling
+Mehrjährige Erfahrung im Controlling oder Finance Business Partnering
+Ausgeprägte analytische Fähigkeiten und Zahlenaffinität
+Erfahrung mit BI-Tools (z. B. Power BI) wünschenswert
+Fähigkeit, komplexe Sachverhalte verständlich aufzubereiten
+Proaktive, strukturierte und lösungsorientierte Arbeitsweise
+Kommunikationsstärke und sicheres Auftreten im Management-Umfeld
+Eine zentrale Rolle als Schnittstelle zwischen Finance und operativem Geschäft
+Direkter Einfluss auf Managemententscheidungen und Unternehmenssteuerung
+Arbeiten in einem modernen, datengetriebenen Finance-Umfeld
+Hohe Eigenverantwortung und Gestaltungsspielraum
+Mitarbeit an strategischen und digitalen Transformationsprojekten","bachelor’s degree in business, finance, or controlling
+several years of experience in controlling or finance business partnering
+strong analytical skills and an affinity for numbers
+experience with BI tools (e.g., Power BI) is desirable
+ability to present complex issues in an understandable way
+proactive, structured, and solution-oriented approach to work
+strong communication skills and confidence when interacting with management
+a key role as the link between finance and operations
+direct influence on management decisions and corporate governance
+working in a modern, data-driven finance environment
+a high degree of autonomy and creative freedom
+collaboration on strategic and digital transformation projects","Umfassende, langfristig orientierte Einarbeitung mit Patensystem
+Eine den Stellenanforderungen entsprechend attraktive Vergütung
+30 Tage Urlaub
+Urlaubs- und Weihnachtsgeld
+I. d. R. individuell angepasste Arbeitszeitmodelle
+Interne Karriere- und Aufstiegsmöglichkeiten
+Umfangreiche Fort- und Weiterbildungsmöglichkeiten
+Ein gutes und kollegiales Betriebsklima
+Innovatives Familienmanagement
+Attraktive Gesundheitsangebote inkl. eigenem Fitnessstudio und Massageangebote
+Modernes Betriebsrestaurant
+Kurze Hierarchie- und Organisationswege
+Bitte nutzen Sie zur Bewerbung unsere Karriereseite. Papierdokumente können wir aus organisatorischen Gründen nicht mehr zurückgeben.","comprehensive, long-term oriented training with a mentoring system
+an attractive salary in line with the job requirements
+30 days vacation
+vacation and Christmas bonus
+generally individually adapted working time models
+internal career and promotion opportunities
+extensive training and further education opportunities
+a good and collegial working atmosphere
+innovative family management
+attractive health offers including our own fitness studio and massage offers
+modern company restaurant
+short hierarchical and organizational paths
+Please use our career site to apply. For organizational reasons, we can no longer return paper documents."
+consultant-sap-hcm-successfactors,TRUE,"Weiherhammer, DE, 92729",recruiting@bhs-world.com,4,standard,Consultant SAP HCM / SuccessFactors (m/w/d),Consultant SAP HCM / SuccessFactors (m/f/x),Berufserfahrene,Experienced Professionals,Vollzeit,Full-time,Unbefristet,Unlimited,IT,IT,"BHS Corrugated Maschinen- und Anlagenbau GmbH ist der führende Lösungsanbieter in der Wellpappenindustrie. Mit mehr als 3.100 MitarbeiterInnen am Hauptsitz in Weiherhammer, Deutschland, sowie in mehr als 20 Ländern weltweit ist der Lifecycle Partner durchwegs stark in seinem gesamten Produkt- und Leistungsspektrum. Dieses umfasst die Bereiche Wellpappenmaschinen, -anlagen und -fabriken, Industrie 4.0, Logistik sowie Single-Pass-Inkjet Digitaldruck. Kunden erhalten ganzheitliche Lösungen – von Entwicklung und Produktion über Installation und Wartung bis zu einer Vielzahl an innovativen Servicelösungen.
+Unter dem Leitbild „Corrugated 4.0"" treibt das Unternehmen die Digitalisierung der Wellpappenindustrie gezielt voran – mit Fokus auf Automatisierung, Effizienz und datengetriebene Prozessoptimierung.
+Als einer der größten Arbeitgeber in der Region bietet das Unternehmen vielfältige Karrieremöglichkeiten und ein umfassendes Angebot an Arbeitgeberleistungen.","BHS Corrugated Maschinen- und Anlagenbau GmbH is the leading solutions provider in the corrugated board industry. With more than 3,100 employees at its headquarters in Weiherhammer, Germany, as well as in more than 20 countries worldwide, the Lifecycle Partner is consistently strong across its entire range of products and services. This encompasses corrugated machinery, plants, and factories, Industry 4.0, logistics, and single-pass inkjet digital printing. Customers receive comprehensive solutions—from development and production through installation and maintenance to a wide range of innovative service solutions.
+Under the “Corrugated 4.0” vision, the company is driving the digitalization of the corrugated industry in a targeted manner—with a focus on automation, efficiency, and data-driven process optimization.
+As one of the largest employers in the region, the company offers diverse career opportunities and a comprehensive range of employee benefits.","Betreuung von SAP HCM für unsere deutschen Kollegen
+Analyse, Konzeption, Implementierung und kontinuierliche Weiterentwicklung & Digitalisierung im HR-Bereich – insbesondere im Bereich von SAP SuccessFactors & SAP HCM
+Unterstützung bei der technischen Umsetzung von SuccessFactors und laufende Betreuung zusammen mit einem erfahrenen internationalen Team
+Abwicklung der SAP SuccessFactors Systemadministration
+Weiterentwicklung unserer HR-IT-Landschaft
+Kontinuierliche Überwachung und Sicherstellung der Qualität der implementierten Lösungen
+Effektive Kommunikation mit allen Beteiligten
+Gestaltung und Betreuung spezifischer Abläufe und Optimierung von zukunftsfähigen HR-Prozessen
+Verständnis der gesamten Systemlandschaft sowie der Datenflüsse von HR-Plattformen (SF-HCM) zu allen Zielsystemen (z. B. SAP FICO S4, CRM, FSM...)
+Anwendersupport für die Fachabteilungen für SAP HCM & SuccessFactors","providing SAP HCM support for our German colleagues
+analysis, design, implementation, and ongoing development and digitization in the HR field—particularly in the areas of SAP SuccessFactors and SAP HCM
+assisting with the technical implementation of SuccessFactors and providing ongoing support in collaboration with an experienced international team
+handling SAP SuccessFactors system administration
+further development of our HR IT landscape
+continuously monitoring and ensuring the quality of the implemented solutions
+effective communication with all stakeholders
+designing and managing specific workflows and optimizing future-proof HR processes
+understanding the entire system landscape as well as data flows from HR platforms (SF-HCM) to all target systems (e.g., SAP FICO S4, CRM, FSM...)
+providing user support for business departments regarding SAP HCM & SuccessFactors","Abgeschlossenes Studium der Wirtschaftswissenschaften/Informatik oder vergleichbare Berufsausbildung
+Mehrjährige einschlägige Berufserfahrung in entsprechender Funktion
+Fundierte Kenntnisse im SAP HCM – speziell in den Modulen PT, PY oder OM
+Erste Erfahrungen im Bereich SuccessFactors wünschenswert
+Ausgeprägtes Verständnis für HR-Prozesse, Prozessoptimierung und die dazugehörige Systemarchitektur
+Hohe Lernbereitschaft, Zielstrebigkeit, Flexibilität und Teamgeist
+Bereitschaft, Themen selbständig zu gestalten, strukturieren, analysieren und voranzutreiben
+Sehr gute Kommunikationsfähigkeiten in Deutsch und Englisch
+Interesse an neuen SAP-HR Technologien und offen für stetiges Lernen","bachelor’s degree in economics or computer science, or comparable professional training
+several years of relevant professional experience in a similar role
+in-depth knowledge of SAP HCM—specifically the PT, PY, or OM modules
+initial experience with SuccessFactors is desirable
+strong understanding of HR processes, process optimization, and the associated system architecture
+strong willingness to learn, determination, flexibility, and team spirit
+willingness to independently organize, structure, analyze, and drive projects forward
+excellent communication skills in German and English
+interest in new SAP HR technologies and openness to continuous learning","Umfassende, langfristig orientierte Einarbeitung mit Patensystem
+Eine den Stellenanforderungen entsprechend attraktive Vergütung
+30 Tage Urlaub
+Urlaubs- und Weihnachtsgeld
+I. d. R. individuell angepasste Arbeitszeitmodelle
+Interne Karriere- und Aufstiegsmöglichkeiten
+Umfangreiche Fort- und Weiterbildungsmöglichkeiten
+Ein gutes und kollegiales Betriebsklima
+Innovatives Familienmanagement
+Attraktive Gesundheitsangebote inkl. eigenem Fitnessstudio und Massageangebote
+Modernes Betriebsrestaurant
+Kurze Hierarchie- und Organisationswege
+Bitte nutzen Sie zur Bewerbung unsere Karriereseite. Papierdokumente können wir aus organisatorischen Gründen nicht mehr zurückgeben.","comprehensive, long-term oriented training with a mentoring system
+an attractive salary in line with the job requirements
+30 days vacation
+vacation and Christmas bonus
+generally individually adapted working time models
+internal career and promotion opportunities
+extensive training and further education opportunities
+a good and collegial working atmosphere
+innovative family management
+attractive health offers including our own fitness studio and massage offers
+modern company restaurant
+short hierarchical and organizational paths
+Please use our career site to apply. For organizational reasons, we can no longer return paper documents."
+initiativbewerbung,TRUE,"Weiherhammer, DE, 92729",recruiting@bhs-world.com,4,standard,Initiativbewerbung,Speculative Application,Berufserfahrene,Experienced Professionals,Vollzeit,Full-time,Unbefristet,Unlimited,Sonstige,General,"BHS Corrugated Maschinen- und Anlagenbau GmbH ist der führende Lösungsanbieter in der Wellpappenindustrie. Mit mehr als 3.100 MitarbeiterInnen am Hauptsitz in Weiherhammer, Deutschland, sowie in mehr als 20 Ländern weltweit ist der Lifecycle Partner durchwegs stark in seinem gesamten Produkt- und Leistungsspektrum. Dieses umfasst die Bereiche Wellpappenmaschinen, -anlagen und -fabriken, Industrie 4.0, Logistik sowie Single-Pass-Inkjet Digitaldruck. Kunden erhalten ganzheitliche Lösungen – von Entwicklung und Produktion über Installation und Wartung bis zu einer Vielzahl an innovativen Servicelösungen.
+Unter dem Leitbild „Corrugated 4.0"" treibt das Unternehmen die Digitalisierung der Wellpappenindustrie gezielt voran – mit Fokus auf Automatisierung, Effizienz und datengetriebene Prozessoptimierung.
+Als einer der größten Arbeitgeber in der Region bietet das Unternehmen vielfältige Karrieremöglichkeiten und ein umfassendes Angebot an Arbeitgeberleistungen.","BHS Corrugated Maschinen- und Anlagenbau GmbH is the leading solutions provider in the corrugated board industry. With more than 3,100 employees at its headquarters in Weiherhammer, Germany, as well as in more than 20 countries worldwide, the Lifecycle Partner is consistently strong across its entire range of products and services. This encompasses corrugated machinery, plants, and factories, Industry 4.0, logistics, and single-pass inkjet digital printing. Customers receive comprehensive solutions—from development and production through installation and maintenance to a wide range of innovative service solutions.
+Under the “Corrugated 4.0” vision, the company is driving the digitalization of the corrugated industry in a targeted manner—with a focus on automation, efficiency, and data-driven process optimization.
+As one of the largest employers in the region, the company offers diverse career opportunities and a comprehensive range of employee benefits.",,,,,"Umfassende, langfristig orientierte Einarbeitung mit Patensystem
+Eine den Stellenanforderungen entsprechend attraktive Vergütung
+30 Tage Urlaub
+Urlaubs- und Weihnachtsgeld
+I. d. R. individuell angepasste Arbeitszeitmodelle
+Interne Karriere- und Aufstiegsmöglichkeiten
+Umfangreiche Fort- und Weiterbildungsmöglichkeiten
+Ein gutes und kollegiales Betriebsklima
+Innovatives Familienmanagement
+Attraktive Gesundheitsangebote inkl. eigenem Fitnessstudio und Massageangebote
+Modernes Betriebsrestaurant
+Kurze Hierarchie- und Organisationswege
+Bitte nutzen Sie zur Bewerbung unsere Karriereseite. Papierdokumente können wir aus organisatorischen Gründen nicht mehr zurückgeben.","comprehensive, long-term oriented training with a mentoring system
+an attractive salary in line with the job requirements
+30 days vacation
+vacation and Christmas bonus
+generally individually adapted working time models
+internal career and promotion opportunities
+extensive training and further education opportunities
+a good and collegial working atmosphere
+innovative family management
+attractive health offers including our own fitness studio and massage offers
+modern company restaurant
+short hierarchical and organizational paths
+Please use our career site to apply. For organizational reasons, we can no longer return paper documents."

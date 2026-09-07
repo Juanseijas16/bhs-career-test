@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Careers at BHS Corrugated</title>
+<link rel="icon" type="image/svg+xml" href="logo.svg">
+<link rel="stylesheet" href="styles.css">
+<script src="careers-config.js?v=3"></script>
+<script src="careers.js?v=3"></script>
+</head>
+<body>
+<header>
+  <a class="logo" href="index-en.html"><img src="logo.svg" alt="Logo of BHS Corrugated"></a>
+  <nav>
+    <details class="lang-switch">
+      <summary>Language <span class="caret">&#9662;</span></summary>
+      <ul class="lang-menu">
+        <li><a href="index.html">Deutsch (Deutschland)</a></li>
+        <li><a class="current" href="index-en.html">English (United States)</a></li>
+      </ul>
+    </details>
+    <a href="https://www.bhs-world.com/" target="_blank" rel="noopener">bhs-world.com</a>
+  </nav>
+</header>
+<div class="breadcrumb"><a href="index-en.html">Home</a> <span class="sep">|</span> <a href="index-en.html">Current Openings</a></div>
+<main>
+
+  <h1 id="pageTitle">Current Openings</h1>
+
+  <div class="carousel" id="homeCarousel">
+    <div class="carousel-track">
+      <img class="carousel-slide is-active" src="images/carousel-1.jpg" alt="BHS Corrugated &ndash; Impression 1">
+      <img class="carousel-slide" src="images/carousel-2.jpg" alt="BHS Corrugated &ndash; Impression 2">
+      <img class="carousel-slide" src="images/carousel-3.jpg" alt="BHS Corrugated &ndash; Impression 3">
+      <img class="carousel-slide" src="images/carousel-4.jpg" alt="BHS Corrugated &ndash; Impression 4">
+    </div>
+    <button class="carousel-arrow carousel-prev" type="button" aria-label="Previous image">&#10094;</button>
+    <button class="carousel-arrow carousel-next" type="button" aria-label="Next image">&#10095;</button>
+    <div class="carousel-dots" aria-hidden="true"></div>
+  </div>
+
+  <form class="search-panel" method="get" action="index-en.html">
+    <div class="search-panel-row">
+      <div class="search-fields">
+        <div class="search-field">
+          <label for="qKeyword">Search by Keyword</label>
+          <input type="text" id="qKeyword" name="q" placeholder="e.g. Finance, SAP, Sales">
+        </div>
+        <div class="search-field">
+          <label for="qLocation">Search by Location</label>
+          <input type="text" id="qLocation" name="loc" placeholder="e.g. Weiherhammer">
+        </div>
+      </div>
+      <div class="search-actions">
+        <button class="search-btn" type="submit">Search Jobs</button>
+        <a class="search-clear" href="index-en.html">Clear</a>
+      </div>
+    </div>
+    <details>
+      <summary class="search-options-toggle">Show More Filter Options</summary>
+      <div class="search-options-grid">
+        <div>
+          <label for="fLocation">Location</label>
+          <select id="fLocation">
+            <option value="">All</option>
+          </select>
+        </div>
+        <div>
+          <label for="fLevel">Job level</label>
+          <select id="fLevel">
+            <option value="">All</option>
+            <option value="Experienced Professionals">Experienced Professionals</option>
+          </select>
+        </div>
+        <div>
+          <label for="fTime">Full-time / Part-time</label>
+          <select id="fTime">
+            <option value="">All</option>
+            <option value="Full-time">Full-time</option>
+          </select>
+        </div>
+        <div>
+          <label for="fContract">Temporary / Unlimited</label>
+          <select id="fContract">
+            <option value="">All</option>
+            <option value="Unlimited">Unlimited</option>
+          </select>
+        </div>
+        <div>
+          <label for="fDept">Business Area</label>
+          <select id="fDept">
+            <option value="">All</option>
+            <option value="Sales">Sales</option>
+            <option value="Finance">Finance</option>
+            <option value="IT">IT</option>
+            <option value="General">General</option>
+          </select>
+        </div>
+      </div>
+    </details>
+  </form>
+
+  <div class="results-count" id="resultsCount"></div>
+
+  <table class="jobs">
+    <thead>
+      <tr><th>Title</th><th>Location</th><th></th></tr>
+    </thead>
+    <tbody id="jobsBody"></tbody>
+  </table>
+
+  <div class="no-results" id="noResults">No results found.</div>
+
+  <script>
+  let JOBS = [];
+
+  function renderJobs(list) {
+    const body = document.getElementById('jobsBody');
+    const noResults = document.getElementById('noResults');
+    document.getElementById('resultsCount').textContent = `Results 1 – ${list.length} of ${list.length}`;
+    if (list.length === 0) {
+      body.innerHTML = '';
+      noResults.style.display = 'block';
+      return;
+    }
+    noResults.style.display = 'none';
+    body.innerHTML = list.map(job => `
+      <tr>
+        <td><a class="job-title-link" href="${job.href}">${job.title}</a></td>
+        <td class="job-location">${job.location}</td>
+        <td><a class="apply-btn apply-btn-sm" href="${job.href}">Details &amp; Application</a></td>
+      </tr>
+    `).join('');
+  }
+
+  function filterJobs() {
+    const kw = document.getElementById('qKeyword').value.trim().toLowerCase();
+    const loc = document.getElementById('qLocation').value.trim().toLowerCase();
+    const fLocation = document.getElementById('fLocation').value;
+    const fLevel = document.getElementById('fLevel').value;
+    const fTime = document.getElementById('fTime').value;
+    const fContract = document.getElementById('fContract').value;
+    const fDept = document.getElementById('fDept').value;
+    const filtered = JOBS.filter(job =>
+      job.title.toLowerCase().includes(kw) &&
+      job.location.toLowerCase().includes(loc) &&
+      (!fLocation || job.location === fLocation) &&
+      (!fLevel || job.level === fLevel) &&
+      (!fTime || job.time === fTime) &&
+      (!fContract || job.contract === fContract) &&
+      (!fDept || job.dept === fDept)
+    );
+    renderJobs(filtered);
+  }
+
+  function populateLocations() {
+    const select = document.getElementById('fLocation');
+    while (select.options.length > 1) select.remove(1);
+    [...new Set(JOBS.map(job => job.location))].filter(Boolean).sort().forEach(loc => {
+      const opt = document.createElement('option');
+      opt.value = loc;
+      opt.textContent = loc;
+      select.appendChild(opt);
+    });
+  }
+  populateLocations();
+
+  ['fLocation', 'fLevel', 'fTime', 'fContract', 'fDept'].forEach(id => {
+    document.getElementById(id).addEventListener('change', filterJobs);
+  });
+
+  const params = new URLSearchParams(location.search);
+  const qVal = params.get('q') || '';
+  const locVal = params.get('loc') || '';
+  document.getElementById('qKeyword').value = qVal;
+  document.getElementById('qLocation').value = locVal;
+  const term = qVal || locVal;
+  document.getElementById('pageTitle').textContent = term ? `Search results for "${term}".` : 'Current Openings';
+  filterJobs();
+
+  // Additional job postings from Google Sheets (shown first).
+  if (window.CareersData) {
+    CareersData.loadJobs('en').then(list => {
+      if (list && list.length) { JOBS = list.concat(JOBS); populateLocations(); filterJobs(); }
+    }).catch(err => console.warn('Could not load jobs from the sheet:', err));
+  }
+
+  (function initCarousel() {
+    const carousel = document.getElementById('homeCarousel');
+    if (!carousel) return;
+    const slides = Array.from(carousel.querySelectorAll('.carousel-slide'));
+    const dotsWrap = carousel.querySelector('.carousel-dots');
+    if (slides.length <= 1) return;
+    let idx = 0, timer;
+    slides.forEach((_, i) => {
+      const dot = document.createElement('button');
+      dot.type = 'button';
+      dot.className = 'carousel-dot' + (i === 0 ? ' is-active' : '');
+      dot.addEventListener('click', () => { go(i); restart(); });
+      dotsWrap.appendChild(dot);
+    });
+    const dots = Array.from(dotsWrap.children);
+    function go(n) {
+      slides[idx].classList.remove('is-active');
+      dots[idx].classList.remove('is-active');
+      idx = (n + slides.length) % slides.length;
+      slides[idx].classList.add('is-active');
+      dots[idx].classList.add('is-active');
+    }
+    function restart() { clearInterval(timer); timer = setInterval(() => go(idx + 1), 5000); }
+    carousel.querySelector('.carousel-next').addEventListener('click', () => { go(idx + 1); restart(); });
+    carousel.querySelector('.carousel-prev').addEventListener('click', () => { go(idx - 1); restart(); });
+    restart();
+  })();
+  </script>
+
+</main>
+<footer>
+  <div class="footer-top">
+    <ul class="footer-links">
+      <li><a href="https://www.bhs-world.com/en/career" target="_blank" rel="noopener">Career</a></li>
+      <li><a href="https://www.bhs-world.com/en/terms-and-conditions" target="_blank" rel="noopener">Terms and Conditions</a></li>
+      <li><a href="https://www.bhs-world.com/en/legal-notice" target="_blank" rel="noopener">Legal Notice</a></li>
+      <li><a href="https://www.bhs-world.com/en/terms-of-use" target="_blank" rel="noopener">Terms of use</a></li>
+      <li><a href="https://www.bhs-world.com/en/data-protection" target="_blank" rel="noopener">Data protection</a></li>
+      <li><a href="https://www.bhs-world.com/" target="_blank" rel="noopener">bhs-world.com</a></li>
+    </ul>
+    <ul class="footer-social">
+      <li><a href="https://de.linkedin.com/company/bhs-world" target="_blank" rel="noopener" aria-label="LinkedIn"><svg viewBox="0 0 48 48"><path fill="#fff" d="M41,4.1H7A2.9,2.9,0,0,0,4,7V41.1A2.9,2.9,0,0,0,7,44H41a2.9,2.9,0,0,0,2.9-2.9V7A2.9,2.9,0,0,0,41,4.1Zm-25.1,34h-6v-19h6Zm-3-21.6A3.5,3.5,0,0,1,9.5,13a3.4,3.4,0,0,1,6.8,0A3.5,3.5,0,0,1,12.9,16.5ZM38,38.1H32.1V28.8c0-2.2,0-5-3.1-5s-3.5,2.4-3.5,4.9v9.4H19.6v-19h5.6v2.6h.1a6.2,6.2,0,0,1,5.6-3.1c6,0,7.1,3.9,7.1,9.1Z"/></svg></a></li>
+      <li><a href="https://www.instagram.com/bhskarriere/" target="_blank" rel="noopener" aria-label="Instagram"><svg viewBox="0 0 32 32"><path fill="#fff" d="M20.445 5h-8.891A6.559 6.559 0 0 0 5 11.554v8.891A6.559 6.559 0 0 0 11.554 27h8.891a6.56 6.56 0 0 0 6.554-6.555v-8.891A6.557 6.557 0 0 0 20.445 5zm4.342 15.445a4.343 4.343 0 0 1-4.342 4.342h-8.891a4.341 4.341 0 0 1-4.341-4.342v-8.891a4.34 4.34 0 0 1 4.341-4.341h8.891a4.342 4.342 0 0 1 4.341 4.341l.001 8.891z"/><path fill="#fff" d="M16 10.312c-3.138 0-5.688 2.551-5.688 5.688s2.551 5.688 5.688 5.688 5.688-2.551 5.688-5.688-2.55-5.688-5.688-5.688zm0 9.163a3.475 3.475 0 1 1-.001-6.95 3.475 3.475 0 0 1 .001 6.95zM21.7 8.991a1.363 1.363 0 1 1-1.364 1.364c0-.752.51-1.364 1.364-1.364z"/></svg></a></li>
+      <li><a href="https://www.facebook.com/bhs.world/?locale=en_US" target="_blank" rel="noopener" aria-label="Facebook"><svg viewBox="0 0 24 24"><path fill="#fff" d="M12 2.03998C6.5 2.03998 2 6.52998 2 12.06C2 17.06 5.66 21.21 10.44 21.96V14.96H7.9V12.06H10.44V9.84998C10.44 7.33998 11.93 5.95998 14.22 5.95998C15.31 5.95998 16.45 6.14998 16.45 6.14998V8.61998H15.19C13.95 8.61998 13.56 9.38998 13.56 10.18V12.06H16.34L15.89 14.96H13.56V21.96C15.9164 21.5878 18.0622 20.3855 19.6099 18.57C21.1576 16.7546 22.0054 14.4456 22 12.06C22 6.52998 17.5 2.03998 12 2.03998Z"/></svg></a></li>
+      <li><a href="https://www.youtube.com/user/BHSCorrugated" target="_blank" rel="noopener" aria-label="YouTube"><svg viewBox="0 0 24 24"><path fill="#fff" d="M19.67 8.14002C19.5811 7.7973 19.4028 7.48433 19.1533 7.23309C18.9038 6.98185 18.5921 6.80134 18.25 6.71001C16.176 6.4654 14.0883 6.35517 12 6.38001C9.91174 6.35517 7.82405 6.4654 5.75001 6.71001C5.40793 6.80134 5.09622 6.98185 4.84674 7.23309C4.59725 7.48433 4.41894 7.7973 4.33001 8.14002C4.10282 9.41396 3.99236 10.706 4.00001 12C3.99198 13.3007 4.10244 14.5994 4.33001 15.88C4.42355 16.2172 4.60391 16.5239 4.85309 16.7696C5.10226 17.0153 5.41153 17.1913 5.75001 17.28C7.82405 17.5246 9.91174 17.6349 12 17.61C14.0883 17.6349 16.176 17.5246 18.25 17.28C18.5885 17.1913 18.8978 17.0153 19.1469 16.7696C19.3961 16.5239 19.5765 16.2172 19.67 15.88C19.8976 14.5994 20.008 13.3007 20 12C20.0077 10.706 19.8972 9.41396 19.67 8.14002ZM10.36 14.39V9.63001L14.55 12L10.36 14.38V14.39Z"/></svg></a></li>
+    </ul>
+  </div>
+  <div class="footer-bottom">
+    BHS Corrugated Maschinen- und Anlagenbau GmbH &mdash; Please apply via email. This page is provided on a temporary basis.
+  </div>
+</footer>
+</body>
+</html>
