@@ -224,9 +224,15 @@
     setText('jobTitle', d.title);
     setText('jobMeta', d.location);
 
+    // RRHH (ticket Selina): las vacantes de estudiantes/aprendices (Werkstudent,
+    // Ausbildung, Duales Studium, Schüler, Praktikum) usan trato informal "du" en
+    // los títulos de sección alemanes; el resto mantiene el formal "Sie".
+    const informalDE = /^(Werkstudent|Berufsausbildung|Ausbildung|Duales Studium|Sch(ü|ue)ler|Praktik)/i.test(d.title || '') || /ausbildung@/i.test(d.email || '');
     const L = lang === 'en'
       ? { tasks: 'Your future responsibilities include', profile: 'Your professional and personal profile', offer: 'We offer you' }
-      : { tasks: 'Zu Ihren zukünftigen Verantwortungen gehören', profile: 'Ihr fachliches und persönliches Profil', offer: 'Wir bieten Ihnen' };
+      : (informalDE
+          ? { tasks: 'Zu deinen zukünftigen Verantwortungen gehören', profile: 'Dein fachliches und persönliches Profil', offer: 'Wir bieten dir' }
+          : { tasks: 'Zu Ihren zukünftigen Verantwortungen gehören', profile: 'Ihr fachliches und persönliches Profil', offer: 'Wir bieten Ihnen' });
     const section = (h, inner) => '<section class="job-section"><h2>' + esc(h) + '</h2>' + inner + '</section>';
     const ul = items => '<ul>' + items.map(i => '<li>' + esc(i) + '</li>').join('') + '</ul>';
 
